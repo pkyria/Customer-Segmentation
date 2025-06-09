@@ -4,6 +4,10 @@ This project focuses on customer segmentation and predictive analytics using a c
 
 ---
 
+> 📄 **For a detailed description, see [Report](./report.pdf).**
+
+---
+
 ## Project Components
 
 ### 1. Dataset Overview
