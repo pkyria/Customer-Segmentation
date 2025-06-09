@@ -1,0 +1,1104 @@
+CustomerID,FullName,Gender,Age,CreditScore,MonthlyIncome,Country,OrderConfirmationTime,Recency,Frequency,Monetary Value,R_rank_norm,F_rank_norm,M_rank_norm,RFM_Score,Customer Segment
+1001,Brittany Franklin,Male,57,780,7591,China,2022-12-23 18:32:00,372,2,272,72.3,74.05,73.62,3.68,Medium Value customer
+1002,Scott Stewart,Female,69,746,3912,China,2023-09-27 22:02:00,94,2,1080,92.75,74.05,73.62,3.83,Medium Value customer
+1003,Elizabeth Fowler,Female,21,772,7460,UK,2019-01-04 03:40:00,1822,1,40,0.09,29.18,29.01,1.24,Lost Customer
+1004,Julian Wall,Female,67,631,4765,UK,2022-07-27 13:03:00,521,2,2040,63.15,74.05,73.62,3.61,Medium Value customer
+1005,James Simmons,Male,57,630,3268,China,2019-01-05 13:52:00,1820,1,600,0.18,29.18,29.01,1.24,Lost Customer
+1006,Annette Atkins,Female,36,660,5350,India,2022-10-20 04:11:00,437,3,249,68.09,94.57,94.02,4.51,Top Customer
+1007,Martha Smith,Female,47,606,3972,UK,2019-01-08 23:20:00,1817,1,500,0.27,29.18,29.01,1.24,Lost Customer
+1008,Kristina Ramirez,Female,45,627,7455,India,2022-11-13 22:55:00,412,2,1605,69.72,74.05,73.62,3.66,Medium Value customer
+1009,Justin Hardin,Male,59,609,3003,Spain,2019-01-09 16:58:00,1816,1,80,0.36,29.18,29.01,1.24,Lost Customer
+1011,Zachary Roberts,Male,60,634,6753,USA,2023-09-03 21:03:00,118,2,170,91.02,74.05,73.62,3.82,Medium Value customer
+1012,Matthew Snyder,Male,57,700,4148,China,2019-01-15 02:46:00,1811,1,54,0.45,29.18,29.01,1.24,Lost Customer
+1013,Jean Richardson,Female,46,659,4287,Japan,2023-10-24 15:39:00,67,2,300,95.29,74.05,73.62,3.85,Medium Value customer
+1014,Karen Austin,Male,18,629,4800,Australia,2023-07-21 00:30:00,163,4,1120,87.17,100.0,99.41,4.89,Top Customer
+1015,Jacob Taylor,Female,22,735,4469,China,2019-01-18 14:00:00,1807,1,70,0.54,29.18,29.01,1.24,Lost Customer
+1017,Michael Camacho,Female,55,722,6449,China,2019-01-20 02:51:00,1806,1,1600,0.63,29.18,29.01,1.24,Lost Customer
+1018,Daniel Gordon,Female,69,767,6956,India,2019-01-21 16:51:00,1804,1,72,0.73,29.18,29.01,1.24,Lost Customer
+1019,Jeffrey Burns,Male,22,759,3895,Italy,2019-01-22 21:26:00,1803,1,480,0.82,29.18,29.01,1.24,Lost Customer
+1020,Sarah Roman,Male,36,709,4801,USA,2019-01-23 17:26:00,1802,1,100,0.91,29.18,29.01,1.24,Lost Customer
+1021,Molly Villa,Male,48,741,7507,Italy,2023-10-01 22:01:00,90,2,1725,93.02,74.05,73.62,3.83,Medium Value customer
+1023,Gregory Reyes,Male,64,625,7056,USA,2023-02-17 09:41:00,316,2,190,75.88,74.05,73.62,3.7,Medium Value customer
+1024,Andrea Faulkner,Male,22,681,5478,China,2019-01-29 01:56:00,1797,1,500,1.0,29.18,29.01,1.24,Lost Customer
+1025,Jessica Stewart,Female,69,640,3757,Japan,2023-03-11 03:33:00,295,3,165,76.79,94.57,94.02,4.58,Top Customer
+1027,Tonya Phillips,Male,71,714,5622,China,2023-11-13 04:00:00,48,3,1990,96.42,94.57,94.02,4.73,Top Customer
+1028,Tina Atkins,Female,31,686,7190,UK,2019-02-04 12:26:00,1790,1,4800,1.13,29.18,29.01,1.24,Lost Customer
+1029,Sean Murphy,Female,22,778,4562,USA,2019-02-05 06:27:00,1790,1,180,1.13,29.18,29.01,1.24,Lost Customer
+1030,Desiree Figueroa,Female,39,695,7413,UK,2022-03-01 02:50:00,670,2,395,55.21,74.05,73.62,3.55,Medium Value customer
+1031,Traci Oneill,Male,20,759,5850,China,2023-01-25 10:50:00,339,2,325,74.66,74.05,73.62,3.69,Medium Value customer
+1032,Steven Johnson,Female,66,737,7470,Canada,2023-12-08 15:31:00,22,3,6190,98.19,94.57,94.02,4.74,Top Customer
+1033,Deborah Contreras,Male,48,656,7164,Canada,2019-02-07 11:25:00,1787,1,140,1.31,29.18,29.01,1.25,Lost Customer
+1034,Jonathan Smith,Male,64,718,3086,Spain,2019-02-07 15:35:00,1787,1,270,1.31,29.18,29.01,1.25,Lost Customer
+1035,Jason Powell,Female,40,727,6789,Spain,2023-11-09 17:24:00,51,3,4435,96.15,94.57,94.02,4.72,Top Customer
+1037,James Austin,Male,69,728,7626,Japan,2023-10-18 10:55:00,73,2,2540,94.79,74.05,73.62,3.85,Medium Value customer
+1038,Joseph Frye,Female,60,742,4969,Canada,2023-08-23 02:06:00,130,2,175,89.76,74.05,73.62,3.81,Medium Value customer
+1039,John Anderson,Male,70,645,5642,Spain,2022-05-28 08:52:00,581,2,180,59.25,74.05,73.62,3.58,Medium Value customer
+1040,Cynthia Thomas,Male,35,619,6399,UK,2019-02-13 12:16:00,1781,1,100,1.45,29.18,29.01,1.25,Lost Customer
+1041,Mary Morris,Female,52,638,7623,India,2022-01-02 18:25:00,727,2,102,53.17,74.05,73.62,3.53,Medium Value customer
+1042,Jessica Gross,Female,46,673,4085,Spain,2019-02-16 14:39:00,1778,1,360,1.59,29.18,29.01,1.25,Lost Customer
+1043,James Best,Male,27,722,3368,China,2019-02-16 20:49:00,1778,1,2400,1.59,29.18,29.01,1.25,Lost Customer
+1044,Kyle Hill,Male,65,653,3611,India,2019-02-19 02:12:00,1776,1,40,1.72,29.18,29.01,1.25,Lost Customer
+1045,Tami Alexander,Female,60,718,6745,India,2022-06-20 23:12:00,558,2,255,60.61,74.05,73.62,3.59,Medium Value customer
+1046,Justin Jackson,Female,23,705,3112,Spain,2019-02-22 01:36:00,1773,1,9000,1.81,29.18,29.01,1.25,Lost Customer
+1047,Monica Oneill,Female,46,648,3612,China,2023-06-26 16:12:00,187,2,70,84.95,74.05,73.62,3.77,Medium Value customer
+1048,Jonathan Mills,Male,40,701,7364,Japan,2019-02-22 14:47:00,1772,1,280,1.9,29.18,29.01,1.25,Lost Customer
+1050,Cynthia Roberts,Female,63,624,7870,Australia,2023-10-14 14:45:00,77,2,360,94.11,74.05,73.62,3.84,Medium Value customer
+1051,Roy Dominguez,Male,49,773,7570,India,2023-09-14 16:17:00,107,2,2550,91.8,74.05,73.62,3.82,Medium Value customer
+1052,Anthony Petty,Male,38,772,3838,Canada,2019-02-26 01:38:00,1769,1,100,1.99,29.18,29.01,1.25,Lost Customer
+1054,Logan Green,Male,25,739,3085,Australia,2023-10-10 13:35:00,81,4,555,93.83,100.0,99.41,4.94,Top Customer
+1055,Melissa Gutierrez,Male,50,775,4163,Australia,2019-02-28 02:12:00,1767,1,2400,2.09,29.18,29.01,1.25,Lost Customer
+1056,Danielle Hamilton,Male,58,602,4709,UK,2019-03-02 21:37:00,1764,1,100,2.18,29.18,29.01,1.25,Lost Customer
+1058,Melissa Perry,Male,54,604,6666,Italy,2019-03-03 15:42:00,1763,1,75,2.27,29.18,29.01,1.25,Lost Customer
+1059,Madison Wong,Male,33,760,6188,China,2023-05-06 11:32:00,238,3,548,80.87,94.57,94.02,4.61,Top Customer
+1060,Laura Bowman,Female,27,747,3489,Italy,2023-03-24 09:05:00,281,2,3070,78.15,74.05,73.62,3.72,Medium Value customer
+1061,Harold Perez,Male,67,633,7045,Canada,2022-01-25 20:22:00,704,2,7200,54.03,74.05,73.62,3.54,Medium Value customer
+1062,Karen Torres,Female,68,698,3498,Spain,2019-03-06 09:20:00,1760,1,40,2.36,29.18,29.01,1.25,Lost Customer
+1063,James Coleman,Male,34,624,5988,Australia,2019-03-09 00:03:00,1758,1,140,2.45,29.18,29.01,1.25,Lost Customer
+1064,Kim Dawson,Female,49,607,7068,Australia,2022-01-03 08:20:00,727,1,80,53.17,29.18,29.01,1.63,Low Value customer
+1065,Amy Lucas,Female,48,630,3042,Japan,2019-03-10 23:48:00,1756,1,140,2.54,29.18,29.01,1.25,Lost Customer
+1066,Samantha Brooks,Female,47,630,6615,Japan,2019-03-12 17:47:00,1754,1,400,2.63,29.18,29.01,1.26,Lost Customer
+1068,Julie Baldwin,Female,34,699,3843,China,2023-08-21 16:33:00,131,2,2416,89.66,74.05,73.62,3.81,Medium Value customer
+1069,Seth Shelton,Male,62,754,5940,India,2019-03-14 15:14:00,1752,1,108,2.72,29.18,29.01,1.26,Lost Customer
+1070,Tyler Villarreal,Female,22,755,6060,India,2019-03-15 14:16:00,1751,1,210,2.81,29.18,29.01,1.26,Lost Customer
+1071,Julie Morgan,Female,66,715,7348,Japan,2022-09-19 21:04:00,467,2,1700,65.91,74.05,73.62,3.63,Medium Value customer
+1072,Wayne Reid,Female,61,607,6496,India,2023-03-05 22:18:00,300,3,1890,76.61,94.57,94.02,4.58,Top Customer
+1073,Kathryn Brown,Male,23,651,5262,Italy,2019-03-20 20:34:00,1746,1,2500,2.99,29.18,29.01,1.26,Lost Customer
+1074,Crystal Jones,Male,65,760,4541,India,2019-03-20 22:19:00,1746,1,70,2.99,29.18,29.01,1.26,Lost Customer
+1075,Taylor Patterson,Male,72,602,5576,Canada,2019-03-21 03:05:00,1746,1,60,2.99,29.18,29.01,1.26,Lost Customer
+1076,Tanya Bell,Female,28,747,6895,UK,2019-03-21 13:03:00,1745,1,35,3.26,29.18,29.01,1.26,Lost Customer
+1077,Kelly Clark,Male,51,624,3630,India,2019-03-21 12:56:00,1745,1,8,3.26,29.18,29.01,1.26,Lost Customer
+1078,Tanya Barnes,Female,55,688,6813,Australia,2023-02-23 09:15:00,310,2,228,76.2,74.05,73.62,3.71,Medium Value customer
+1079,Michael Graham,Female,69,719,5643,Spain,2022-04-08 21:48:00,631,2,9400,56.57,74.05,73.62,3.56,Medium Value customer
+1080,Julia Hunter,Female,42,672,7359,Canada,2019-03-22 05:59:00,1745,1,25,3.26,29.18,29.01,1.26,Lost Customer
+1081,Antonio Lopez,Female,44,639,6112,USA,2022-12-21 06:30:00,375,2,6100,72.17,74.05,73.62,3.68,Medium Value customer
+1082,Jeanette Douglas,Male,30,670,7297,UK,2019-03-24 06:27:00,1743,1,7200,3.45,29.18,29.01,1.26,Lost Customer
+1083,Kelly Lopez,Female,58,656,4441,India,2023-09-05 23:48:00,116,2,2400,91.25,74.05,73.62,3.82,Medium Value customer
+1084,Jennifer Conway,Female,47,625,6592,Spain,2023-10-05 06:03:00,87,2,3072,93.25,74.05,73.62,3.83,Medium Value customer
+1085,Leon Cline,Female,72,681,4233,USA,2019-03-27 08:33:00,1739,1,50,3.54,29.18,29.01,1.26,Lost Customer
+1086,Nicholas Johnston,Female,19,753,4691,India,2023-05-10 19:57:00,234,1,150,81.19,29.18,29.01,1.84,Low Value customer
+1087,Michael Ibarra,Female,70,744,6770,Italy,2019-03-28 18:45:00,1738,1,150,3.63,29.18,29.01,1.26,Lost Customer
+1088,Jose Smith,Male,66,698,5234,Australia,2019-03-29 16:18:00,1737,1,100,3.72,29.18,29.01,1.26,Lost Customer
+1089,Anthony Orr,Female,48,634,6496,China,2023-08-08 14:49:00,144,2,480,88.53,74.05,73.62,3.8,Medium Value customer
+1090,Melissa Wilson,Male,37,677,6276,USA,2019-03-30 20:12:00,1736,1,90,3.81,29.18,29.01,1.26,Lost Customer
+1092,Hannah Flynn,Female,51,610,7073,India,2019-04-01 00:57:00,1735,1,150,3.9,29.18,29.01,1.26,Lost Customer
+1093,Lori Miller,Female,66,780,4310,India,2022-10-09 02:19:00,448,2,310,67.72,74.05,73.62,3.64,Medium Value customer
+1094,Seth Edwards,Female,19,768,5673,Italy,2019-04-01 23:13:00,1734,1,40,3.99,29.18,29.01,1.27,Lost Customer
+1095,Christopher Johnson,Male,30,646,5498,China,2022-07-01 14:24:00,547,2,495,61.38,74.05,73.62,3.6,Medium Value customer
+1096,Tyrone Combs,Female,26,761,5394,USA,2019-04-03 06:53:00,1733,1,800,4.08,29.18,29.01,1.27,Lost Customer
+1099,David Petty,Female,35,704,4519,Italy,2022-11-28 21:56:00,397,2,410,70.35,74.05,73.62,3.66,Medium Value customer
+1100,Brett Lopez,Male,27,655,5157,USA,2023-05-17 22:36:00,227,1,300,81.82,29.18,29.01,1.85,Low Value customer
+1101,Karen Stone,Female,25,707,5949,UK,2023-07-18 23:45:00,165,2,52,86.9,74.05,73.62,3.79,Medium Value customer
+1102,Daniel Johnson,Male,33,677,5535,India,2023-03-13 20:31:00,292,2,445,77.06,74.05,73.62,3.71,Medium Value customer
+1103,Jeremy Buchanan,Male,59,625,3683,China,2019-04-09 23:53:00,1726,1,75,4.17,29.18,29.01,1.27,Lost Customer
+1104,Kathryn Moss,Male,35,708,6598,Australia,2019-04-11 03:07:00,1725,1,500,4.26,29.18,29.01,1.27,Lost Customer
+1105,Ashley Bradley,Male,45,675,3154,India,2019-04-13 11:27:00,1722,1,48,4.4,29.18,29.01,1.27,Lost Customer
+1106,Heather Willis,Male,48,739,6226,Canada,2023-08-06 07:13:00,147,2,310,88.21,74.05,73.62,3.8,Medium Value customer
+1107,Danielle Randall,Female,66,665,7422,China,2019-04-14 06:35:00,1722,1,4500,4.4,29.18,29.01,1.27,Lost Customer
+1108,Yesenia Taylor,Male,68,667,7542,Australia,2022-12-18 09:43:00,377,2,548,71.99,74.05,73.62,3.67,Medium Value customer
+1109,Megan Wilson,Male,30,619,3756,Canada,2019-04-15 18:38:00,1720,1,15,4.53,29.18,29.01,1.27,Lost Customer
+1110,Mason Moreno,Female,62,642,4230,Australia,2023-01-07 05:19:00,358,2,255,73.66,74.05,73.62,3.69,Medium Value customer
+1111,Pamela Johnson,Male,44,763,3099,Spain,2019-04-16 09:16:00,1719,1,600,4.71,29.18,29.01,1.27,Lost Customer
+1112,Kathleen Harvey,Female,50,778,7302,Australia,2019-04-16 14:59:00,1719,1,400,4.71,29.18,29.01,1.27,Lost Customer
+1113,Brianna Meyers,Male,37,760,4529,Japan,2019-04-17 06:30:00,1719,1,240,4.71,29.18,29.01,1.27,Lost Customer
+1114,Nicolas Evans,Male,49,747,6854,Canada,2023-08-16 03:52:00,137,3,7555,89.21,94.57,94.02,4.67,Top Customer
+1115,Stuart Hester,Male,48,655,3151,UK,2019-04-17 18:00:00,1718,1,50,4.94,29.18,29.01,1.27,Lost Customer
+1116,Charles Graves,Female,72,774,6423,Italy,2022-04-12 14:23:00,627,2,2015,56.75,74.05,73.62,3.56,Medium Value customer
+1117,Christie Thompson,Male,51,603,4959,USA,2019-04-18 00:23:00,1718,1,150,4.94,29.18,29.01,1.27,Lost Customer
+1118,Steven Zuniga,Female,40,682,3290,Australia,2019-04-19 11:55:00,1716,1,150,5.08,29.18,29.01,1.27,Lost Customer
+1119,Brooke Hunter,Female,40,672,5656,UK,2019-04-21 11:46:00,1714,1,90,5.17,29.18,29.01,1.27,Lost Customer
+1120,Brittney Jones,Male,23,682,7393,USA,2019-04-24 00:25:00,1712,1,160,5.26,29.18,29.01,1.27,Lost Customer
+1121,Lauren Mclaughlin,Female,37,686,7137,USA,2023-09-09 04:35:00,113,2,9140,91.43,74.05,73.62,3.82,Medium Value customer
+1122,Colin Wilkins,Male,40,640,3458,USA,2022-09-27 17:26:00,459,3,372,66.55,94.57,94.02,4.5,Top Customer
+1123,Rebecca Maxwell,Female,38,622,5505,Italy,2019-04-27 01:59:00,1709,1,75,5.39,29.18,29.01,1.28,Lost Customer
+1124,Robert Jones,Female,46,712,6632,Japan,2019-04-27 04:58:00,1709,1,1200,5.39,29.18,29.01,1.28,Lost Customer
+1125,David Mathews,Male,33,774,3331,Australia,2023-11-06 14:48:00,54,2,4815,95.83,74.05,73.62,3.85,Medium Value customer
+1126,Patricia Carrillo,Female,66,697,7996,Canada,2019-04-29 11:18:00,1706,1,60,5.53,29.18,29.01,1.28,Lost Customer
+1127,Manuel Mills,Male,25,715,7772,USA,2022-05-03 09:27:00,606,1,4800,57.93,29.18,29.01,1.67,Low Value customer
+1128,Carol Curry,Male,44,759,4749,Italy,2022-07-02 18:33:00,546,2,265,61.56,74.05,73.62,3.6,Medium Value customer
+1129,Suzanne Burnett,Male,63,711,4516,China,2022-08-09 10:11:00,508,2,258,63.64,74.05,73.62,3.61,Medium Value customer
+1130,Kathryn Flores,Male,43,769,3814,India,2019-05-01 18:37:00,1704,1,7500,5.62,29.18,29.01,1.28,Lost Customer
+1131,Cassandra Mccormick,Female,18,727,5345,Canada,2019-05-07 12:31:00,1698,1,480,5.71,29.18,29.01,1.28,Lost Customer
+1132,Aaron Reynolds,Female,69,624,5719,Australia,2022-05-21 03:37:00,589,3,2670,58.75,94.57,94.02,4.44,High Value Customer
+1133,Richard Hahn,Female,68,733,4210,Canada,2019-05-08 20:00:00,1697,1,175,5.8,29.18,29.01,1.28,Lost Customer
+1134,Alejandra Weaver,Female,38,649,7358,Spain,2023-04-04 01:09:00,271,1,240,78.69,29.18,29.01,1.83,Low Value customer
+1135,Brandy Russell,Male,18,775,6613,Spain,2023-01-19 12:29:00,345,1,25,74.16,29.18,29.01,1.79,Low Value customer
+1136,David Cook,Male,39,727,4079,Italy,2023-10-12 06:10:00,80,2,580,93.97,74.05,73.62,3.84,Medium Value customer
+1137,Yesenia Roberts,Male,36,758,6694,Canada,2022-07-26 03:16:00,523,2,1590,62.87,74.05,73.62,3.61,Medium Value customer
+1138,Dorothy Hutchinson,Male,70,690,7662,Japan,2019-05-13 21:23:00,1692,1,120,5.94,29.18,29.01,1.28,Lost Customer
+1139,Audrey Harris,Female,37,621,5935,Japan,2019-05-14 05:01:00,1692,1,100,5.94,29.18,29.01,1.28,Lost Customer
+1140,Samantha Greene,Female,22,606,7461,Spain,2019-05-17 17:37:00,1688,1,150,6.12,29.18,29.01,1.28,Lost Customer
+1141,Stephen Smith,Male,61,660,5598,Australia,2019-05-17 18:09:00,1688,1,15,6.12,29.18,29.01,1.28,Lost Customer
+1142,Beth Brown,Male,65,620,4842,UK,2022-10-22 20:40:00,434,2,102,68.4,74.05,73.62,3.65,Medium Value customer
+1143,Curtis Powell,Male,45,710,4729,Australia,2022-01-27 18:31:00,702,2,460,54.22,74.05,73.62,3.54,Medium Value customer
+1144,Alexander Lara,Male,20,643,7415,UK,2019-05-22 06:12:00,1684,1,240,6.26,29.18,29.01,1.28,Lost Customer
+1145,Christopher Robles,Male,58,747,4312,India,2019-05-22 23:28:00,1683,1,80,6.39,29.18,29.01,1.28,Lost Customer
+1146,Joseph Thomas,Female,19,738,4850,China,2019-05-23 01:09:00,1683,1,300,6.39,29.18,29.01,1.28,Lost Customer
+1147,Casey Carlson,Female,27,672,5140,Japan,2023-04-29 07:43:00,246,2,320,79.96,74.05,73.62,3.73,Medium Value customer
+1148,Phillip Hoover,Female,45,620,3088,India,2019-05-25 08:32:00,1680,1,160,6.53,29.18,29.01,1.28,Lost Customer
+1149,Ryan Ballard,Male,26,769,6943,Italy,2022-09-04 04:25:00,483,2,9150,65.19,74.05,73.62,3.62,Medium Value customer
+1150,Scott Hull,Female,21,610,3478,USA,2022-04-17 21:55:00,622,2,2400,57.07,74.05,73.62,3.56,Medium Value customer
+1151,Steve Wallace,Male,68,643,5657,Japan,2019-05-30 20:17:00,1675,1,250,6.66,29.18,29.01,1.29,Lost Customer
+1153,Jason Becker,Female,25,762,4228,USA,2019-05-31 04:25:00,1675,1,32,6.66,29.18,29.01,1.29,Lost Customer
+1154,Theresa Hardy,Female,72,615,3351,China,2019-05-31 22:40:00,1674,1,6000,6.8,29.18,29.01,1.29,Lost Customer
+1155,John Wright,Male,24,630,7703,Australia,2019-06-02 13:37:00,1672,1,180,6.94,29.18,29.01,1.29,Lost Customer
+1156,Michelle Holland,Male,38,724,4368,Australia,2019-06-02 19:31:00,1672,1,360,6.94,29.18,29.01,1.29,Lost Customer
+1159,Carol Kim,Female,54,604,3374,Spain,2019-06-05 13:04:00,1669,1,54,7.07,29.18,29.01,1.29,Lost Customer
+1160,Kathy Sutton,Female,53,654,3618,UK,2022-07-08 22:29:00,540,2,160,62.01,74.05,73.62,3.6,Medium Value customer
+1161,Katherine Curtis,Female,65,765,6708,Canada,2019-06-08 10:39:00,1666,1,7200,7.16,29.18,29.01,1.29,Lost Customer
+1162,Joshua Singh,Male,67,664,3084,India,2023-03-11 21:23:00,294,2,540,76.93,74.05,73.62,3.71,Medium Value customer
+1163,Carlos Ali,Female,64,758,7763,India,2022-04-24 13:44:00,615,2,435,57.43,74.05,73.62,3.57,Medium Value customer
+1164,Jason Cross,Female,25,691,7777,Australia,2019-06-09 19:22:00,1665,1,2000,7.25,29.18,29.01,1.29,Lost Customer
+1165,Kenneth Moody,Female,28,746,6410,Spain,2023-05-09 09:36:00,235,3,229,81.05,94.57,94.02,4.61,Top Customer
+1166,Dawn Cordova,Female,55,738,6988,Italy,2023-06-22 07:43:00,192,2,425,84.77,74.05,73.62,3.77,Medium Value customer
+1167,Monique Ryan,Male,32,771,5124,Australia,2019-06-12 14:02:00,1662,1,400,7.34,29.18,29.01,1.29,Lost Customer
+1168,Brandon Shaw,Male,42,727,5335,China,2023-02-11 01:39:00,323,2,6075,75.52,74.05,73.62,3.7,Medium Value customer
+1169,Peggy Nielsen,Male,69,726,4327,Italy,2019-06-14 02:53:00,1661,1,105,7.43,29.18,29.01,1.29,Lost Customer
+1170,Tonya Daniels,Male,71,680,4795,China,2023-01-17 16:49:00,347,2,350,74.07,74.05,73.62,3.69,Medium Value customer
+1171,Amanda Moreno,Male,22,724,5582,USA,2023-08-25 07:37:00,128,3,540,90.03,94.57,94.02,4.68,Top Customer
+1172,Anthony Collins,Female,29,726,6502,USA,2019-06-16 12:46:00,1658,1,75,7.57,29.18,29.01,1.29,Lost Customer
+1173,Joshua Mccann Jr.,Male,27,646,4764,UK,2019-06-16 13:59:00,1658,1,16,7.57,29.18,29.01,1.29,Lost Customer
+1174,Joseph Morse II,Female,29,677,5189,Spain,2019-06-17 21:13:00,1657,1,120,7.71,29.18,29.01,1.29,Lost Customer
+1175,Anthony Hernandez,Female,65,618,5920,Canada,2022-01-03 22:58:00,726,2,320,53.31,74.05,73.62,3.53,Medium Value customer
+1176,April Snyder,Female,68,695,6689,USA,2022-09-28 00:38:00,459,2,7240,66.55,74.05,73.62,3.63,Medium Value customer
+1177,Jacqueline Maldonado,Female,53,732,5438,UK,2019-06-19 00:48:00,1656,1,24,7.8,29.18,29.01,1.29,Lost Customer
+1179,Teresa Galvan,Male,53,701,5971,China,2019-06-20 08:26:00,1655,1,24,7.89,29.18,29.01,1.29,Lost Customer
+1180,Edward Raymond,Female,23,769,7793,USA,2023-09-14 21:22:00,107,3,2435,91.8,94.57,94.02,4.69,Top Customer
+1181,Laura Huerta,Male,38,761,7393,India,2019-06-22 12:36:00,1652,1,45,8.02,29.18,29.01,1.3,Lost Customer
+1182,Austin Whitehead MD,Female,71,652,7642,Australia,2022-10-08 02:58:00,449,2,2535,67.59,74.05,73.62,3.64,Medium Value customer
+1183,Megan Jenkins,Female,62,707,7163,China,2019-06-22 22:20:00,1652,1,210,8.02,29.18,29.01,1.3,Lost Customer
+1184,Tony Patel MD,Female,57,722,5117,USA,2022-09-27 04:21:00,460,3,530,66.36,94.57,94.02,4.5,Top Customer
+1186,Natalie King,Male,72,730,4621,Japan,2022-12-07 16:05:00,388,2,230,70.9,74.05,73.62,3.67,Medium Value customer
+1188,Anthony Vasquez,Male,31,742,6721,UK,2022-03-05 05:22:00,666,2,230,55.35,74.05,73.62,3.55,Medium Value customer
+1189,Michele Washington,Female,26,712,6298,China,2022-09-30 12:43:00,456,2,480,67.0,74.05,73.62,3.64,Medium Value customer
+1190,Kayla Gonzalez,Male,29,749,6575,China,2019-07-03 23:22:00,1641,1,450,8.2,29.18,29.01,1.3,Lost Customer
+1191,Nathan Rodriguez,Female,30,734,6981,UK,2019-07-03 23:50:00,1641,1,1500,8.2,29.18,29.01,1.3,Lost Customer
+1192,Mark Obrien,Male,34,712,7874,Italy,2019-07-04 18:29:00,1640,1,270,8.34,29.18,29.01,1.3,Lost Customer
+1194,Melissa Harris,Female,65,715,4210,China,2023-06-06 00:46:00,208,1,350,83.91,29.18,29.01,1.86,Low Value customer
+1195,Michael Phillips,Male,70,646,4490,China,2019-07-08 12:56:00,1636,1,350,8.43,29.18,29.01,1.3,Lost Customer
+1196,Melissa Black,Female,55,723,5866,Spain,2019-07-10 12:11:00,1634,1,150,8.52,29.18,29.01,1.3,Lost Customer
+1197,Sherri Hall,Male,41,761,5687,Japan,2023-12-10 16:23:00,20,2,2105,98.55,74.05,73.62,3.87,Medium Value customer
+1198,Dylan Rivera,Male,43,760,4721,India,2023-08-19 21:42:00,133,3,688,89.53,94.57,94.02,4.67,Top Customer
+1199,Shawn Brown,Female,68,678,7470,USA,2019-07-14 01:11:00,1631,1,140,8.66,29.18,29.01,1.3,Lost Customer
+1200,Christopher Saunders,Male,25,775,4294,China,2019-07-14 03:36:00,1631,1,300,8.66,29.18,29.01,1.3,Lost Customer
+1201,Emily Hardin,Female,28,664,5806,Australia,2019-07-15 05:28:00,1630,1,75,8.79,29.18,29.01,1.3,Lost Customer
+1202,Wesley Hall,Male,51,688,4983,Australia,2023-08-09 01:21:00,144,1,300,88.53,29.18,29.01,1.9,Low Value customer
+1203,Brian Gray,Female,67,673,7209,Canada,2022-06-29 19:34:00,549,2,1650,61.11,74.05,73.62,3.59,Medium Value customer
+1204,Billy Houston,Male,42,718,5463,Canada,2023-01-04 10:18:00,360,1,280,73.44,29.18,29.01,1.79,Low Value customer
+1205,Catherine Blevins,Male,63,760,6492,Spain,2022-04-22 08:23:00,618,4,3650,57.3,100.0,99.41,4.66,Top Customer
+1206,Joseph Fuentes,Male,32,679,3346,Italy,2022-07-10 05:22:00,539,2,145,62.1,74.05,73.62,3.6,Medium Value customer
+1207,Christine Mason,Male,58,688,6283,Japan,2019-07-26 12:26:00,1618,1,32,8.88,29.18,29.01,1.3,Lost Customer
+1209,Eddie Dixon DDS,Male,40,732,7810,China,2022-12-25 12:04:00,370,2,230,72.57,74.05,73.62,3.68,Medium Value customer
+1210,Jeffrey Scott,Male,36,725,4004,Spain,2023-05-29 08:32:00,215,2,1725,83.0,74.05,73.62,3.76,Medium Value customer
+1211,Anna Dixon,Male,19,674,3617,Spain,2023-08-07 16:48:00,145,3,3088,88.4,94.57,94.02,4.67,Top Customer
+1212,Trevor Powell,Male,38,778,3497,China,2019-07-27 22:12:00,1617,1,600,9.02,29.18,29.01,1.3,Lost Customer
+1213,Jacob Keller,Male,44,680,7993,Spain,2019-07-27 23:35:00,1617,1,350,9.02,29.18,29.01,1.3,Lost Customer
+1214,Sydney Thomas,Male,26,694,7155,India,2019-07-28 08:42:00,1616,1,20,9.16,29.18,29.01,1.3,Lost Customer
+1215,Kimberly Thompson,Male,39,776,3866,Japan,2023-11-30 03:56:00,31,1,48,97.46,29.18,29.01,1.97,Low Value customer
+1217,Lisa Espinoza,Male,24,736,5934,USA,2023-11-11 11:31:00,49,2,6050,96.28,74.05,73.62,3.86,Medium Value customer
+1218,Jeremy Pena,Male,44,631,4588,UK,2019-07-31 17:36:00,1613,1,2000,9.25,29.18,29.01,1.3,Lost Customer
+1219,Thomas Wright,Male,44,600,7517,USA,2023-06-28 03:55:00,186,2,65,85.04,74.05,73.62,3.77,Medium Value customer
+1220,Leah Orr,Female,72,665,5272,USA,2023-03-17 13:27:00,288,2,248,77.43,74.05,73.62,3.72,Medium Value customer
+1221,Lindsay Wong,Male,20,724,4879,Canada,2022-12-26 19:27:00,369,2,435,72.71,74.05,73.62,3.68,Medium Value customer
+1222,Tammy Miller,Female,69,722,6074,Spain,2023-05-30 05:30:00,215,1,120,83.0,29.18,29.01,1.86,Low Value customer
+1223,Rodney Tyler,Female,38,687,5766,Canada,2023-12-31 08:30:00,0,2,240,100.0,74.05,73.62,3.88,Medium Value customer
+1224,Steven Griffin,Male,23,766,5373,UK,2019-08-06 20:45:00,1607,1,420,9.34,29.18,29.01,1.31,Lost Customer
+1225,Sarah Aguirre,Female,25,751,6149,USA,2019-08-10 00:00:00,1604,1,175,9.47,29.18,29.01,1.31,Lost Customer
+1226,Valerie Johnson,Female,46,688,4552,Canada,2019-08-10 07:04:00,1604,1,60,9.47,29.18,29.01,1.31,Lost Customer
+1227,Jessica Garcia,Male,39,759,4072,UK,2023-03-11 19:05:00,294,2,175,76.93,74.05,73.62,3.71,Medium Value customer
+1228,Rachel Munoz,Male,59,692,4817,Italy,2022-08-23 12:26:00,494,1,18,64.55,29.18,29.01,1.72,Low Value customer
+1229,Lindsey Hughes,Female,21,634,7892,India,2023-05-26 15:01:00,218,2,450,82.5,74.05,73.62,3.75,Medium Value customer
+1232,Laura Fisher,Male,20,715,6745,UK,2019-08-16 14:38:00,1597,1,360,9.66,29.18,29.01,1.31,Lost Customer
+1233,Madison Meyer,Female,65,715,3820,Spain,2019-08-16 20:28:00,1597,1,280,9.66,29.18,29.01,1.31,Lost Customer
+1234,Stacey Ramirez,Female,49,699,5063,India,2019-08-18 17:24:00,1595,1,1500,9.79,29.18,29.01,1.31,Lost Customer
+1235,Erica Melton,Male,41,699,3301,India,2019-08-20 16:04:00,1593,1,120,9.88,29.18,29.01,1.31,Lost Customer
+1236,Joseph Howell,Female,38,607,7052,Canada,2019-08-22 16:42:00,1591,1,50,9.97,29.18,29.01,1.31,Lost Customer
+1237,Daniel Meyer,Female,66,685,6390,Japan,2019-08-24 10:58:00,1589,1,1000,10.06,29.18,29.01,1.31,Lost Customer
+1238,Hannah Cervantes,Female,52,757,3189,China,2022-09-28 19:42:00,458,2,6210,66.73,74.05,73.62,3.64,Medium Value customer
+1239,Samuel Mcbride,Female,43,738,7723,Italy,2019-08-26 09:37:00,1587,1,60,10.15,29.18,29.01,1.31,Lost Customer
+1240,Casey Schroeder,Female,61,735,6624,USA,2023-05-27 12:21:00,217,3,1312,82.73,94.57,94.02,4.62,Top Customer
+1241,Veronica Sweeney,Female,46,762,6507,Australia,2023-05-11 02:46:00,234,1,600,81.19,29.18,29.01,1.84,Low Value customer
+1242,Joshua King,Female,23,716,7949,Spain,2019-08-29 02:22:00,1585,1,140,10.24,29.18,29.01,1.31,Lost Customer
+1243,Lindsay Miller,Female,69,698,7020,UK,2022-01-05 12:14:00,724,2,2360,53.4,74.05,73.62,3.54,Medium Value customer
+1244,Jacqueline Stephens,Female,43,667,6363,Australia,2019-08-30 06:01:00,1584,1,3000,10.34,29.18,29.01,1.31,Lost Customer
+1245,Leslie Brooks MD,Female,55,642,6044,Italy,2019-08-31 11:20:00,1582,1,120,10.43,29.18,29.01,1.31,Lost Customer
+1246,Angela Walker,Male,20,755,4777,Canada,2022-06-16 08:55:00,562,2,7340,60.24,74.05,73.62,3.59,Medium Value customer
+1247,Elizabeth Nichols,Female,33,712,7230,Spain,2023-11-06 03:50:00,55,1,540,95.74,29.18,29.01,1.95,Low Value customer
+1248,Angela Aguilar,Female,60,696,3053,Italy,2019-09-01 20:13:00,1581,1,8,10.52,29.18,29.01,1.31,Lost Customer
+1249,Haley Henry,Male,66,707,6741,Canada,2019-09-02 08:39:00,1580,1,320,10.61,29.18,29.01,1.31,Lost Customer
+1250,Elizabeth Chambers,Female,66,742,4310,Spain,2019-09-05 04:34:00,1578,1,2000,10.7,29.18,29.01,1.32,Lost Customer
+1251,Rachael Hawkins,Male,61,751,7194,UK,2019-09-06 23:00:00,1576,1,150,10.79,29.18,29.01,1.32,Lost Customer
+1252,Bernard King,Male,44,608,3897,Canada,2019-09-07 14:24:00,1575,1,2400,10.92,29.18,29.01,1.32,Lost Customer
+1253,Michelle Friedman,Male,35,610,6169,Italy,2023-12-28 05:41:00,3,1,4500,99.91,29.18,29.01,1.98,Low Value customer
+1254,Mitchell Ortiz,Female,62,619,3363,Spain,2019-09-08 03:28:00,1575,1,150,10.92,29.18,29.01,1.32,Lost Customer
+1255,Jacob Hall MD,Female,53,630,4914,Japan,2023-05-26 12:25:00,218,2,608,82.5,74.05,73.62,3.75,Medium Value customer
+1256,Raymond Krause,Female,27,755,6736,UK,2019-09-10 10:59:00,1572,1,300,11.11,29.18,29.01,1.32,Lost Customer
+1257,Jessica Smith,Male,27,662,7215,India,2023-06-14 04:37:00,200,3,1280,84.5,94.57,94.02,4.64,Top Customer
+1258,Andrea Herrera,Female,24,711,4246,Spain,2019-09-11 04:01:00,1572,1,100,11.11,29.18,29.01,1.32,Lost Customer
+1260,Joseph Good,Male,47,726,5998,Australia,2019-09-12 18:39:00,1570,1,3000,11.24,29.18,29.01,1.32,Lost Customer
+1261,Timothy Rosario,Female,57,632,5969,Italy,2023-02-06 23:09:00,327,2,480,75.34,74.05,73.62,3.7,Medium Value customer
+1262,Margaret Romero,Female,41,640,4379,China,2019-09-16 12:08:00,1566,1,1500,11.33,29.18,29.01,1.32,Lost Customer
+1263,Katherine Sanchez,Female,57,739,6939,Australia,2019-09-17 16:01:00,1565,1,140,11.47,29.18,29.01,1.32,Lost Customer
+1264,Briana Marshall,Male,37,693,4785,Australia,2019-09-17 23:12:00,1565,1,70,11.47,29.18,29.01,1.32,Lost Customer
+1265,Jenna Adams,Male,23,654,6761,Canada,2019-09-18 17:16:00,1564,1,60,11.6,29.18,29.01,1.32,Lost Customer
+1266,Eric Cook,Female,69,612,7061,China,2023-08-30 04:56:00,123,1,8,90.48,29.18,29.01,1.91,Low Value customer
+1267,Gregory Briggs,Male,64,655,4416,Japan,2019-09-20 23:19:00,1562,1,48,11.7,29.18,29.01,1.32,Lost Customer
+1269,Lori Smith,Male,27,606,4582,Canada,2019-09-21 19:04:00,1561,1,36,11.79,29.18,29.01,1.32,Lost Customer
+1270,Paul Griffin DDS,Female,53,655,5238,Italy,2019-09-24 02:29:00,1559,1,24,11.88,29.18,29.01,1.32,Lost Customer
+1271,Benjamin Vang,Female,29,720,7476,China,2023-11-07 16:48:00,53,2,6540,95.97,74.05,73.62,3.85,Medium Value customer
+1272,Jose Wiley,Female,27,655,4736,Japan,2019-09-26 05:32:00,1557,1,105,11.97,29.18,29.01,1.33,Lost Customer
+1273,Patricia James,Female,67,710,6854,Japan,2019-09-29 05:01:00,1554,1,75,12.06,29.18,29.01,1.33,Lost Customer
+1274,Stephen King,Female,18,751,6165,Italy,2023-09-05 05:26:00,117,3,950,91.12,94.57,94.02,4.69,Top Customer
+1275,Lisa Calhoun,Male,24,687,7418,Japan,2022-04-07 08:22:00,633,1,7200,56.39,29.18,29.01,1.66,Low Value customer
+1276,Judy Ellis,Female,55,612,3074,India,2022-05-07 08:41:00,602,2,690,58.43,74.05,73.62,3.57,Medium Value customer
+1277,Jessica Ingram,Male,68,689,3551,Canada,2019-10-03 20:48:00,1549,1,80,12.15,29.18,29.01,1.33,Lost Customer
+1278,Austin Spencer,Female,19,696,3913,Australia,2023-12-22 00:43:00,9,2,10500,99.37,74.05,73.62,3.88,Medium Value customer
+1279,Andrew Santos,Male,66,727,7823,China,2023-10-19 03:12:00,73,2,540,94.79,74.05,73.62,3.85,Medium Value customer
+1280,Danielle Smith,Male,65,738,4740,Canada,2022-10-31 00:21:00,426,2,125,68.99,74.05,73.62,3.65,Medium Value customer
+1282,Kayla Williams,Female,47,720,7789,Australia,2019-10-11 22:12:00,1541,1,140,12.24,29.18,29.01,1.33,Lost Customer
+1283,Anthony Dominguez,Female,27,677,6300,Canada,2019-10-12 12:11:00,1540,1,300,12.33,29.18,29.01,1.33,Lost Customer
+1284,Patricia Gilmore,Male,47,603,6578,Japan,2022-07-11 08:50:00,537,2,416,62.38,74.05,73.62,3.6,Medium Value customer
+1286,Bradley Burke,Female,50,624,6422,China,2023-06-17 07:24:00,197,2,660,84.68,74.05,73.62,3.77,Medium Value customer
+1287,Thomas Hines,Female,49,612,7725,Canada,2019-10-16 02:08:00,1537,1,60,12.42,29.18,29.01,1.33,Lost Customer
+1288,Rita Davis,Male,31,608,5451,Australia,2023-04-23 08:50:00,251,2,100,79.51,74.05,73.62,3.73,Medium Value customer
+1289,Joseph Morton,Female,35,627,7763,India,2019-10-19 03:36:00,1534,1,150,12.51,29.18,29.01,1.33,Lost Customer
+1290,William Torres,Male,43,715,4222,USA,2022-02-01 13:41:00,697,2,4625,54.58,74.05,73.62,3.54,Medium Value customer
+1291,Marcus Rodriguez,Female,58,707,4422,UK,2019-10-22 00:12:00,1531,1,8,12.6,29.18,29.01,1.33,Lost Customer
+1292,Sierra Hernandez,Male,25,608,7887,Australia,2022-05-29 06:13:00,581,2,2200,59.25,74.05,73.62,3.58,Medium Value customer
+1293,Michele Robertson,Female,64,657,3462,Japan,2019-10-24 09:11:00,1528,1,48,12.74,29.18,29.01,1.33,Lost Customer
+1294,Maria Schwartz,Male,48,608,6204,UK,2019-10-25 06:29:00,1528,1,50,12.74,29.18,29.01,1.33,Lost Customer
+1295,Thomas Mcgrath,Male,33,764,7391,Canada,2023-05-26 19:43:00,218,1,180,82.5,29.18,29.01,1.85,Low Value customer
+1296,Christopher Mclean,Male,26,703,4919,Japan,2019-10-28 08:14:00,1525,1,75,12.87,29.18,29.01,1.33,Lost Customer
+1297,Melissa Houston,Female,18,774,3185,Australia,2019-10-29 06:19:00,1524,1,105,12.96,29.18,29.01,1.33,Lost Customer
+1298,Valerie Martinez,Female,22,626,5429,India,2019-10-29 16:41:00,1523,1,240,13.06,29.18,29.01,1.33,Lost Customer
+1299,Ronald Zamora,Female,59,764,5906,Australia,2022-03-27 23:22:00,643,2,160,56.12,74.05,73.62,3.56,Medium Value customer
+1300,Karen Wolf,Female,28,614,4826,Canada,2019-10-30 15:49:00,1522,1,2000,13.15,29.18,29.01,1.33,Lost Customer
+1301,Mrs. Rhonda Arnold,Female,44,759,7166,Spain,2019-11-01 14:12:00,1520,1,240,13.24,29.18,29.01,1.33,Lost Customer
+1302,Yolanda Frank,Male,56,635,5813,India,2019-11-03 06:16:00,1519,1,140,13.33,29.18,29.01,1.34,Lost Customer
+1304,Joshua Williams,Male,43,731,7302,Canada,2022-04-13 02:02:00,627,1,108,56.75,29.18,29.01,1.66,Low Value customer
+1305,Amy Duke,Female,24,774,5124,India,2019-11-05 08:01:00,1517,1,70,13.42,29.18,29.01,1.34,Lost Customer
+1306,Kevin Dudley,Female,56,702,7778,USA,2019-11-08 13:47:00,1513,1,54,13.55,29.18,29.01,1.34,Lost Customer
+1307,Madison James MD,Male,46,767,4721,Spain,2019-11-09 02:33:00,1513,1,75,13.55,29.18,29.01,1.34,Lost Customer
+1309,Scott Juarez,Female,19,697,4604,Canada,2022-05-18 04:20:00,592,2,200,58.66,74.05,73.62,3.57,Medium Value customer
+1311,Stephen Chandler,Male,34,723,3989,Spain,2023-11-28 12:16:00,32,4,163,97.28,100.0,99.41,4.96,Top Customer
+1312,Mrs. Angela Kelley,Female,21,697,5127,Italy,2022-08-17 08:01:00,501,3,670,64.1,94.57,94.02,4.48,High Value Customer
+1313,Meghan Brown,Female,54,700,3389,China,2022-10-07 09:12:00,449,2,255,67.59,74.05,73.62,3.64,Medium Value customer
+1314,Taylor Brown,Male,32,751,4897,Canada,2019-11-15 04:57:00,1507,1,35,13.69,29.18,29.01,1.34,Lost Customer
+1316,Johnathan Spencer,Female,30,677,7599,Spain,2023-12-05 11:03:00,25,3,320,97.82,94.57,94.02,4.74,Top Customer
+1317,John Gilmore,Female,59,610,6340,Italy,2023-09-15 23:43:00,106,2,242,92.07,74.05,73.62,3.83,Medium Value customer
+1318,Julie Clayton,Female,22,673,7643,Canada,2019-11-17 21:13:00,1504,1,8,13.78,29.18,29.01,1.34,Lost Customer
+1319,Taylor Keith MD,Female,55,772,4387,USA,2019-11-18 20:56:00,1503,1,105,13.87,29.18,29.01,1.34,Lost Customer
+1320,Molly Brown,Female,36,700,4538,UK,2022-12-29 04:34:00,367,2,310,72.94,74.05,73.62,3.68,Medium Value customer
+1321,Jaclyn Thompson,Female,23,600,3272,China,2023-06-29 08:25:00,185,2,615,85.13,74.05,73.62,3.77,Medium Value customer
+1322,Sarah Gonzalez,Female,66,637,5126,UK,2023-04-04 10:18:00,270,3,1120,78.79,94.57,94.02,4.59,Top Customer
+1323,James Sawyer,Male,64,640,7217,Italy,2019-11-21 18:46:00,1500,1,420,13.96,29.18,29.01,1.34,Lost Customer
+1324,Lauren Valencia,Female,63,705,6055,Australia,2022-12-13 12:06:00,382,3,1800,71.44,94.57,94.02,4.54,Top Customer
+1325,Aaron Lucas,Male,66,712,3279,India,2023-08-11 03:20:00,142,2,290,88.98,74.05,73.62,3.8,Medium Value customer
+1326,Amanda Lindsey,Male,60,661,6237,Canada,2019-11-24 22:16:00,1497,1,100,14.05,29.18,29.01,1.34,Lost Customer
+1327,David Duncan,Male,43,694,4749,Japan,2022-08-12 02:03:00,506,2,105,63.78,74.05,73.62,3.61,Medium Value customer
+1328,Mario Smith,Female,62,649,6183,Italy,2019-11-26 23:03:00,1495,1,6000,14.19,29.18,29.01,1.34,Lost Customer
+1329,Tina Cruz,Female,19,725,3825,Japan,2019-11-27 06:30:00,1495,1,1200,14.19,29.18,29.01,1.34,Lost Customer
+1330,Andrew White,Male,60,690,3972,UK,2019-11-27 12:12:00,1494,1,250,14.32,29.18,29.01,1.34,Lost Customer
+1331,Kevin Riley,Female,30,692,3329,Australia,2022-12-18 11:35:00,377,2,465,71.99,74.05,73.62,3.67,Medium Value customer
+1332,Ashley Torres,Male,18,705,5211,Spain,2019-11-28 11:21:00,1493,1,300,14.42,29.18,29.01,1.34,Lost Customer
+1333,Maureen Wright,Male,43,622,4981,Canada,2023-02-12 00:31:00,322,2,65,75.61,74.05,73.62,3.7,Medium Value customer
+1334,Jessica Lucas,Female,21,662,4426,UK,2019-12-01 09:11:00,1490,1,70,14.51,29.18,29.01,1.34,Lost Customer
+1335,Justin Williamson,Male,44,629,3990,India,2022-06-26 10:25:00,552,3,4890,60.92,94.57,94.02,4.46,High Value Customer
+1336,Mark Fitzpatrick,Male,22,627,7692,USA,2019-12-04 10:29:00,1487,1,300,14.64,29.18,29.01,1.35,Lost Customer
+1337,Frederick Crawford,Male,39,701,5683,Japan,2023-04-06 11:31:00,268,1,450,78.97,29.18,29.01,1.83,Low Value customer
+1338,Victoria Schmidt,Male,69,620,4105,Japan,2019-12-05 02:23:00,1487,1,120,14.64,29.18,29.01,1.35,Lost Customer
+1339,Jasmine Chavez,Male,59,672,7944,Italy,2023-05-29 03:08:00,216,2,225,82.86,74.05,73.62,3.76,Medium Value customer
+1340,Wendy Pham,Female,49,600,4589,China,2023-10-28 10:22:00,63,2,435,95.47,74.05,73.62,3.85,Medium Value customer
+1341,Amy King,Male,21,668,6666,Spain,2019-12-05 16:42:00,1486,1,1200,14.78,29.18,29.01,1.35,Lost Customer
+1342,Jennifer Hernandez,Female,66,694,6589,USA,2022-07-04 18:04:00,544,2,3090,61.65,74.05,73.62,3.6,Medium Value customer
+1343,Leslie Harris,Male,69,717,5644,USA,2023-07-06 21:37:00,177,3,695,85.81,94.57,94.02,4.65,Top Customer
+1344,Amy Mcpherson,Female,24,659,6718,Canada,2019-12-10 16:59:00,1481,1,32,14.91,29.18,29.01,1.35,Lost Customer
+1345,Jason Adkins,Female,23,604,4169,Italy,2019-12-11 01:35:00,1481,1,18,14.91,29.18,29.01,1.35,Lost Customer
+1347,Michelle Wright,Male,35,714,5146,Canada,2023-06-01 00:39:00,213,3,7890,83.23,94.57,94.02,4.63,Top Customer
+1348,Erica Castillo,Female,45,656,7408,Canada,2019-12-13 15:31:00,1478,1,1200,15.1,29.18,29.01,1.35,Lost Customer
+1349,Luke Davis,Female,55,752,6916,Spain,2019-12-13 22:00:00,1478,1,105,15.1,29.18,29.01,1.35,Lost Customer
+1350,Shelly Rivas,Female,49,648,5854,Italy,2019-12-15 04:54:00,1477,1,1600,15.23,29.18,29.01,1.35,Lost Customer
+1352,Damon Butler,Female,37,624,6521,India,2019-12-15 20:50:00,1476,1,600,15.32,29.18,29.01,1.35,Lost Customer
+1354,Dean Taylor,Female,59,644,3332,China,2023-03-17 20:18:00,288,1,3000,77.43,29.18,29.01,1.82,Low Value customer
+1355,Denise Anderson,Female,45,711,4678,Spain,2019-12-17 22:29:00,1474,1,360,15.41,29.18,29.01,1.35,Lost Customer
+1356,Denise Nguyen,Female,42,688,4365,Canada,2022-08-07 23:46:00,510,2,180,63.55,74.05,73.62,3.61,Medium Value customer
+1358,Jeffrey Simmons,Female,46,643,3074,India,2023-01-25 15:42:00,339,2,190,74.66,74.05,73.62,3.69,Medium Value customer
+1360,David Williams,Female,60,685,6092,Italy,2019-12-20 18:36:00,1471,1,480,15.5,29.18,29.01,1.35,Lost Customer
+1361,Cynthia Morales,Female,53,702,4909,USA,2023-05-03 01:07:00,242,3,323,80.19,94.57,94.02,4.6,Top Customer
+1362,Mary Gibbs,Female,49,639,7072,Australia,2023-08-04 17:16:00,148,2,1050,88.03,74.05,73.62,3.8,Medium Value customer
+1363,Jacqueline Long,Female,22,658,3642,Spain,2023-02-16 14:47:00,317,2,560,75.75,74.05,73.62,3.7,Medium Value customer
+1364,Melanie Acosta,Male,37,633,6144,Italy,2022-09-25 01:36:00,462,2,390,66.09,74.05,73.62,3.63,Medium Value customer
+1365,Tina Estrada,Female,42,603,7633,Japan,2022-02-25 03:01:00,674,2,485,55.12,74.05,73.62,3.55,Medium Value customer
+1366,David Davis,Female,39,620,5930,UK,2023-05-03 15:38:00,241,2,2640,80.33,74.05,73.62,3.74,Medium Value customer
+1367,Joseph Bell,Female,39,704,7465,UK,2019-12-31 21:15:00,1460,1,1600,15.59,29.18,29.01,1.35,Lost Customer
+1368,Thomas Wagner,Female,31,747,5787,India,2020-01-03 00:57:00,1458,1,80,15.68,29.18,29.01,1.35,Lost Customer
+1369,Nicole May,Female,35,637,5270,Japan,2023-06-10 15:11:00,203,3,2600,84.22,94.57,94.02,4.64,Top Customer
+1370,Cassandra Whitney,Female,58,769,3238,India,2020-01-04 23:26:00,1456,1,2400,15.78,29.18,29.01,1.35,Lost Customer
+1371,Anthony Diaz,Female,71,748,4686,Spain,2020-01-06 01:52:00,1455,1,30,15.87,29.18,29.01,1.35,Lost Customer
+1372,Ashley White,Female,43,740,7839,Canada,2020-01-07 20:21:00,1453,1,120,16.09,29.18,29.01,1.36,Lost Customer
+1373,Christopher Franco,Male,34,746,5770,Australia,2020-01-07 22:29:00,1453,1,150,16.09,29.18,29.01,1.36,Lost Customer
+1374,Brian Reyes,Female,29,752,3147,Italy,2020-01-07 23:14:00,1453,1,3000,16.09,29.18,29.01,1.36,Lost Customer
+1375,Sarah Huang,Female,41,645,5641,UK,2020-01-08 04:47:00,1453,1,80,16.09,29.18,29.01,1.36,Lost Customer
+1376,James Little,Male,66,639,6126,China,2022-03-10 13:33:00,660,1,350,55.53,29.18,29.01,1.65,Low Value customer
+1378,Brett Todd,Female,71,639,7151,Italy,2020-01-10 22:20:00,1450,1,150,16.32,29.18,29.01,1.36,Lost Customer
+1379,Cody Alexander,Male,66,740,6364,Spain,2023-11-26 16:15:00,34,3,216,97.05,94.57,94.02,4.73,Top Customer
+1380,Eric Williamson,Female,20,713,6046,Australia,2020-01-11 17:45:00,1449,1,160,16.41,29.18,29.01,1.36,Lost Customer
+1381,Randy Brock,Male,40,769,3766,Italy,2023-07-29 05:59:00,155,2,166,87.67,74.05,73.62,3.79,Medium Value customer
+1382,Brenda Harris,Male,44,687,6124,Spain,2023-08-17 11:35:00,135,2,200,89.35,74.05,73.62,3.8,Medium Value customer
+1383,Christopher Knight,Male,36,727,3778,Japan,2023-02-21 16:15:00,312,2,106,76.07,74.05,73.62,3.71,Medium Value customer
+1384,Denise Murphy,Female,54,635,6975,China,2022-07-06 11:10:00,542,2,340,61.79,74.05,73.62,3.6,Medium Value customer
+1385,Sarah Weaver,Male,51,688,7278,Australia,2020-01-21 16:41:00,1439,1,7200,16.5,29.18,29.01,1.36,Lost Customer
+1387,Robin Woods,Female,50,778,5251,Spain,2020-01-23 21:47:00,1437,1,350,16.59,29.18,29.01,1.36,Lost Customer
+1388,Matthew Smith,Male,19,637,4296,Japan,2020-01-24 10:05:00,1436,1,400,16.68,29.18,29.01,1.36,Lost Customer
+1389,Michael Logan,Male,34,736,4038,Italy,2022-06-22 15:07:00,556,1,25,60.74,29.18,29.01,1.69,Low Value customer
+1390,Mary Hester,Male,44,748,4380,Spain,2020-01-26 07:31:00,1435,1,100,16.77,29.18,29.01,1.36,Lost Customer
+1391,Tammy Frazier,Female,21,625,5462,Spain,2022-04-27 05:58:00,613,2,7605,57.57,74.05,73.62,3.57,Medium Value customer
+1392,Jeffrey Rodriguez,Female,72,722,3929,Japan,2020-01-28 11:46:00,1432,1,2000,16.86,29.18,29.01,1.36,Lost Customer
+1393,Danielle Brown,Male,45,731,3557,UK,2023-05-22 23:43:00,222,3,386,82.18,94.57,94.02,4.62,Top Customer
+1394,Michelle Campbell,Male,23,673,7771,USA,2020-01-29 12:39:00,1431,1,7200,17.0,29.18,29.01,1.36,Lost Customer
+1395,Edward Harris,Female,44,646,6587,Australia,2020-01-29 17:09:00,1431,1,200,17.0,29.18,29.01,1.36,Lost Customer
+1396,Brittney Yu,Male,41,671,5383,Spain,2023-08-30 23:01:00,122,2,1700,90.66,74.05,73.62,3.81,Medium Value customer
+1397,Jeanette Walker,Male,34,761,5376,Canada,2023-03-23 08:01:00,283,2,540,77.92,74.05,73.62,3.72,Medium Value customer
+1398,Pamela King,Male,30,620,3307,Australia,2022-10-28 12:52:00,428,2,460,68.81,74.05,73.62,3.65,Medium Value customer
+1400,Joshua Barnes,Female,68,614,7217,UK,2022-12-14 18:28:00,381,2,960,71.53,74.05,73.62,3.67,Medium Value customer
+1401,Samantha Walter,Female,34,692,6617,UK,2022-12-19 03:15:00,377,2,240,71.99,74.05,73.62,3.67,Medium Value customer
+1402,Mr. Todd Gibson,Male,25,714,7070,China,2023-10-21 18:36:00,70,2,3210,94.97,74.05,73.62,3.85,Medium Value customer
+1403,Brian Hardy,Male,22,651,6263,Australia,2022-10-22 11:38:00,434,2,174,68.4,74.05,73.62,3.65,Medium Value customer
+1404,Linda Pace,Female,71,622,3747,Australia,2023-08-23 13:40:00,129,1,270,89.85,29.18,29.01,1.91,Low Value customer
+1405,Rose Graham,Female,47,605,7568,USA,2022-08-19 06:18:00,499,2,3000,64.23,74.05,73.62,3.62,Medium Value customer
+1406,Carrie Jones,Male,44,687,6409,Japan,2020-02-07 10:53:00,1422,1,280,17.18,29.18,29.01,1.36,Lost Customer
+1407,Alexa Barnes,Male,50,630,5843,Spain,2023-08-27 15:35:00,125,2,7260,90.3,74.05,73.62,3.81,Medium Value customer
+1408,Zachary Davis,Male,44,719,3626,Australia,2020-02-08 07:07:00,1422,1,16,17.18,29.18,29.01,1.36,Lost Customer
+1409,Kyle Johnson,Female,46,776,5319,China,2023-10-12 01:15:00,80,2,210,93.97,74.05,73.62,3.84,Medium Value customer
+1410,Patricia Greene,Female,64,728,4735,China,2020-02-08 17:25:00,1421,1,50,17.36,29.18,29.01,1.37,Lost Customer
+1411,Michelle Keller,Female,35,664,3796,Spain,2020-02-09 02:22:00,1421,1,360,17.36,29.18,29.01,1.37,Lost Customer
+1412,Daniel Moore,Female,37,710,5803,UK,2020-02-09 23:22:00,1420,1,270,17.5,29.18,29.01,1.37,Lost Customer
+1413,Brandi Mills,Female,22,754,3027,India,2023-08-05 22:19:00,147,2,250,88.21,74.05,73.62,3.8,Medium Value customer
+1414,David Young,Female,71,688,5406,Japan,2020-02-11 04:31:00,1419,1,100,17.59,29.18,29.01,1.37,Lost Customer
+1415,Rebecca Kelley,Female,64,645,7848,Canada,2023-10-01 18:56:00,90,2,1575,93.02,74.05,73.62,3.83,Medium Value customer
+1416,Angela Fry,Female,47,769,6076,USA,2020-02-11 17:08:00,1418,1,105,17.72,29.18,29.01,1.37,Lost Customer
+1417,Jennifer Garcia,Female,68,626,6253,Canada,2023-03-24 06:19:00,282,2,3500,78.06,74.05,73.62,3.72,Medium Value customer
+1418,Deborah Sullivan,Male,37,655,4794,China,2020-02-12 00:19:00,1418,1,150,17.72,29.18,29.01,1.37,Lost Customer
+1419,Michael Hartman,Male,54,648,5887,Spain,2022-07-28 02:45:00,521,2,95,63.15,74.05,73.62,3.61,Medium Value customer
+1420,Alexandra Galvan,Male,69,709,4288,Italy,2020-02-14 03:07:00,1416,1,30,17.91,29.18,29.01,1.37,Lost Customer
+1421,Robert Ramirez,Female,20,709,7201,China,2023-05-17 21:49:00,227,1,50,81.82,29.18,29.01,1.85,Low Value customer
+1422,Jordan Carpenter,Male,26,699,6034,India,2020-02-14 03:47:00,1416,1,70,17.91,29.18,29.01,1.37,Lost Customer
+1423,Lawrence Bolton,Female,27,739,3479,China,2020-02-14 11:55:00,1415,1,250,18.04,29.18,29.01,1.37,Lost Customer
+1424,Tracy Novak,Male,52,765,7696,UK,2023-07-24 15:56:00,159,2,108,87.35,74.05,73.62,3.79,Medium Value customer
+1425,Jennifer Osborne,Male,52,668,5625,India,2020-02-16 01:25:00,1414,1,200,18.13,29.18,29.01,1.37,Lost Customer
+1426,Nathan Paul,Male,60,602,6569,Japan,2020-02-17 00:02:00,1413,1,40,18.22,29.18,29.01,1.37,Lost Customer
+1427,Cynthia Gomez,Male,69,756,4074,Australia,2020-02-18 01:43:00,1412,1,90,18.31,29.18,29.01,1.37,Lost Customer
+1428,Tiffany Boyd,Female,33,664,5002,China,2020-02-18 18:34:00,1411,1,160,18.45,29.18,29.01,1.37,Lost Customer
+1429,James Ward,Male,59,746,3873,Japan,2020-02-19 04:08:00,1411,1,75,18.45,29.18,29.01,1.37,Lost Customer
+1430,Christopher Pratt,Female,22,720,3415,China,2023-03-17 11:33:00,288,2,7620,77.43,74.05,73.62,3.72,Medium Value customer
+1431,David Morton,Male,64,724,6555,Canada,2020-02-21 17:45:00,1408,1,2500,18.63,29.18,29.01,1.38,Lost Customer
+1432,Ryan Jones,Male,22,692,3075,Australia,2020-02-22 04:05:00,1408,1,140,18.63,29.18,29.01,1.38,Lost Customer
+1433,Brittany Lopez,Female,51,644,4944,Australia,2020-02-28 16:54:00,1401,1,150,18.77,29.18,29.01,1.38,Lost Customer
+1434,Douglas Garcia,Female,61,687,7734,UK,2023-07-13 21:01:00,170,2,750,86.31,74.05,73.62,3.78,Medium Value customer
+1435,Cory Orr,Female,56,745,3238,Japan,2020-03-01 18:17:00,1399,1,150,18.86,29.18,29.01,1.38,Lost Customer
+1436,Dr. Christina Peterson,Male,29,686,5424,India,2023-10-23 01:41:00,69,2,520,95.15,74.05,73.62,3.85,Medium Value customer
+1437,Justin Wagner,Male,56,634,4530,USA,2023-12-04 18:52:00,26,2,325,97.73,74.05,73.62,3.87,Medium Value customer
+1438,Rachel Carroll,Female,59,684,6493,USA,2020-03-05 09:02:00,1395,1,25,18.95,29.18,29.01,1.38,Lost Customer
+1439,Jerry Meadows,Female,59,756,7420,Italy,2023-02-24 06:09:00,310,2,1200,76.2,74.05,73.62,3.71,Medium Value customer
+1440,Jason Mooney,Female,31,614,6303,UK,2023-12-12 21:00:00,18,3,1375,98.73,94.57,94.02,4.74,Top Customer
+1441,Rachel Atkins,Female,63,641,4821,UK,2020-03-09 22:55:00,1391,1,105,19.04,29.18,29.01,1.38,Lost Customer
+1443,Angela Salas,Male,55,774,3799,China,2020-03-11 01:14:00,1390,1,420,19.13,29.18,29.01,1.38,Lost Customer
+1445,Tyler Holmes,Male,62,614,7330,UK,2022-06-17 01:32:00,562,2,280,60.24,74.05,73.62,3.59,Medium Value customer
+1446,Kimberly Hall,Female,42,712,7377,China,2022-10-15 02:41:00,442,2,400,67.82,74.05,73.62,3.64,Medium Value customer
+1447,Tyler Hansen,Male,53,671,6521,Australia,2020-03-14 16:44:00,1386,1,4500,19.22,29.18,29.01,1.38,Lost Customer
+1449,Meghan Holloway,Male,62,708,3789,India,2020-03-17 17:48:00,1383,1,4800,19.31,29.18,29.01,1.38,Lost Customer
+1450,Jamie Rose,Male,20,673,5031,Italy,2023-05-05 18:59:00,239,3,1405,80.69,94.57,94.02,4.61,Top Customer
+1451,Douglas Brown,Female,38,730,4166,India,2020-03-20 05:33:00,1381,1,35,19.4,29.18,29.01,1.38,Lost Customer
+1452,Jesus Sanchez,Male,71,741,3090,India,2022-05-08 02:47:00,602,2,2600,58.43,74.05,73.62,3.57,Medium Value customer
+1453,Christopher Gonzalez,Female,44,745,5391,Spain,2023-09-21 02:50:00,101,2,200,92.48,74.05,73.62,3.83,Medium Value customer
+1454,Heather Johnson,Male,24,654,5740,Japan,2020-03-24 18:21:00,1376,1,75,19.49,29.18,29.01,1.38,Lost Customer
+1455,Richard Oliver,Female,57,637,3650,UK,2020-03-26 02:22:00,1375,1,2400,19.58,29.18,29.01,1.38,Lost Customer
+1456,Kaitlyn Stevens,Male,21,724,4730,UK,2023-11-27 09:04:00,33,3,228,97.19,94.57,94.02,4.73,Top Customer
+1458,Julie Jackson,Male,42,746,5488,Canada,2022-09-22 15:19:00,464,3,890,66.0,94.57,94.02,4.5,Top Customer
+1459,Pamela Gibson,Female,35,607,4308,UK,2022-03-10 17:14:00,660,2,1740,55.53,74.05,73.62,3.55,Medium Value customer
+1460,Sara Stuart,Male,36,651,7311,Australia,2023-10-05 20:04:00,86,3,3178,93.38,94.57,94.02,4.7,Top Customer
+1461,Benjamin Franklin,Female,64,613,5036,Australia,2020-03-28 17:00:00,1372,1,250,19.72,29.18,29.01,1.38,Lost Customer
+1462,Tammy Mendoza,Male,34,655,4170,China,2020-03-29 03:54:00,1372,1,450,19.72,29.18,29.01,1.38,Lost Customer
+1463,Shawn Ortiz,Female,42,663,5016,Japan,2022-07-19 02:11:00,530,2,520,62.56,74.05,73.62,3.6,Medium Value customer
+1464,Bonnie Fisher,Female,33,759,5707,Italy,2023-10-22 19:18:00,69,4,3170,95.15,100.0,99.41,4.95,Top Customer
+1465,Daniel Reynolds,Male,62,735,7150,China,2023-08-31 23:04:00,121,2,540,90.84,74.05,73.62,3.82,Medium Value customer
+1466,Scott Cox,Male,69,659,7366,Italy,2020-04-02 21:12:00,1367,1,18,19.85,29.18,29.01,1.38,Lost Customer
+1467,Michael Lopez,Female,53,757,6185,Canada,2020-04-03 23:33:00,1366,1,90,19.95,29.18,29.01,1.39,Lost Customer
+1468,Christina White,Female,48,753,4769,Spain,2023-06-02 15:19:00,211,3,4215,83.59,94.57,94.02,4.63,Top Customer
+1469,William Dalton,Female,59,664,4650,Italy,2020-04-05 05:45:00,1365,1,50,20.04,29.18,29.01,1.39,Lost Customer
+1471,Angela Phillips,Female,54,718,7743,Italy,2020-04-15 18:18:00,1354,1,250,20.13,29.18,29.01,1.39,Lost Customer
+1473,Mary Fritz,Female,44,738,4644,Italy,2022-04-18 04:50:00,622,2,1620,57.07,74.05,73.62,3.56,Medium Value customer
+1474,Joyce Gomez,Male,32,678,5153,India,2023-05-31 15:09:00,213,2,370,83.23,74.05,73.62,3.76,Medium Value customer
+1475,Tracy Garcia,Male,68,638,6836,UK,2020-04-19 22:52:00,1350,1,50,20.22,29.18,29.01,1.39,Lost Customer
+1476,Lee Peterson,Male,47,732,7372,USA,2023-09-17 23:19:00,104,3,237,92.29,94.57,94.02,4.7,Top Customer
+1477,Jessica Norris,Female,27,663,4572,Canada,2020-04-20 12:03:00,1349,1,16,20.31,29.18,29.01,1.39,Lost Customer
+1478,Virginia Curtis,Female,44,706,4574,Italy,2020-04-21 20:34:00,1348,1,15,20.4,29.18,29.01,1.39,Lost Customer
+1479,Jacob Sparks,Male,24,779,6915,Canada,2023-07-12 21:27:00,171,3,238,86.13,94.57,94.02,4.65,Top Customer
+1480,Michael Briggs,Female,58,616,7137,India,2020-04-23 22:22:00,1346,1,90,20.49,29.18,29.01,1.39,Lost Customer
+1481,Charles Mccoy,Male,68,735,6725,USA,2023-11-17 10:01:00,43,2,1980,96.65,74.05,73.62,3.86,Medium Value customer
+1482,Sara Martinez,Female,47,694,6843,Italy,2022-12-17 18:37:00,378,2,4900,71.8,74.05,73.62,3.67,Medium Value customer
+1483,Linda Miles,Female,66,713,3702,Italy,2020-04-25 02:16:00,1345,1,240,20.58,29.18,29.01,1.39,Lost Customer
+1484,Lori Obrien,Female,61,617,7045,Italy,2020-04-25 10:16:00,1344,1,125,20.67,29.18,29.01,1.39,Lost Customer
+1485,Gabrielle Doyle,Male,41,740,7329,Italy,2023-07-04 14:44:00,179,2,150,85.49,74.05,73.62,3.78,Medium Value customer
+1486,Alexandria Johnston,Male,68,608,3252,Australia,2023-12-19 02:12:00,12,3,2124,99.05,94.57,94.02,4.75,Top Customer
+1487,Angelica Harvey,Male,63,691,3640,Japan,2020-04-27 12:30:00,1342,1,100,20.76,29.18,29.01,1.39,Lost Customer
+1488,William Huffman,Female,41,778,7612,Japan,2020-04-29 21:15:00,1340,1,30,20.9,29.18,29.01,1.39,Lost Customer
+1489,Aaron Bradley,Female,21,767,4929,Canada,2022-07-25 17:15:00,523,2,53,62.87,74.05,73.62,3.61,Medium Value customer
+1490,Kristine Johnson,Male,52,661,5034,Canada,2020-04-30 03:06:00,1340,1,16,20.9,29.18,29.01,1.39,Lost Customer
+1491,Susan Perry,Female,19,780,7959,Spain,2022-11-10 03:49:00,416,2,540,69.58,74.05,73.62,3.66,Medium Value customer
+1492,Jacob Salinas,Female,44,727,3235,Canada,2020-05-01 17:34:00,1338,1,175,21.03,29.18,29.01,1.39,Lost Customer
+1493,Jessica Williams,Male,37,676,5397,USA,2022-12-16 14:47:00,379,1,500,71.67,29.18,29.01,1.77,Low Value customer
+1494,Dana Schneider,Male,41,627,4622,Spain,2020-05-04 11:51:00,1335,1,100,21.17,29.18,29.01,1.39,Lost Customer
+1495,Kyle Obrien,Female,56,600,7545,China,2020-05-04 14:12:00,1335,1,3000,21.17,29.18,29.01,1.39,Lost Customer
+1496,William Sweeney,Male,54,700,6528,UK,2022-12-25 18:07:00,370,3,9620,72.57,94.57,94.02,4.55,Top Customer
+1497,Eric Watson,Male,56,619,5313,Australia,2020-05-07 01:11:00,1333,1,400,21.31,29.18,29.01,1.4,Lost Customer
+1498,Lindsay Villanueva,Male,29,610,6825,China,2020-05-07 11:58:00,1332,1,800,21.4,29.18,29.01,1.4,Lost Customer
+1500,Charles Morris,Female,48,680,5841,USA,2020-05-09 05:06:00,1331,1,16,21.49,29.18,29.01,1.4,Lost Customer
+1501,Jason Henderson,Female,70,763,7845,Spain,2020-05-10 18:43:00,1329,1,150,21.58,29.18,29.01,1.4,Lost Customer
+1502,Edward Ibarra,Female,56,673,3089,Japan,2020-05-12 09:11:00,1327,1,180,21.76,29.18,29.01,1.4,Lost Customer
+1503,Terry Stewart,Male,37,778,7246,USA,2020-05-12 20:05:00,1327,1,8,21.76,29.18,29.01,1.4,Lost Customer
+1504,Juan Gray,Female,22,634,5551,Japan,2020-05-12 22:38:00,1327,1,45,21.76,29.18,29.01,1.4,Lost Customer
+1506,Nicole Aguilar,Female,53,634,4083,Australia,2020-05-13 09:23:00,1326,1,48,21.94,29.18,29.01,1.4,Lost Customer
+1509,Jonathan Warner,Female,39,653,5689,China,2020-05-16 21:03:00,1323,1,420,22.03,29.18,29.01,1.4,Lost Customer
+1510,Jennifer Carter,Female,43,763,5060,Spain,2023-07-27 20:11:00,156,2,335,87.58,74.05,73.62,3.79,Medium Value customer
+1511,Michelle Henderson,Female,21,768,3114,Japan,2020-05-18 13:11:00,1321,1,15,22.12,29.18,29.01,1.4,Lost Customer
+1512,Rodney Smith,Male,35,629,5308,China,2022-08-23 05:48:00,495,2,320,64.37,74.05,73.62,3.62,Medium Value customer
+1513,Melanie Parker,Female,31,632,7130,UK,2020-05-19 13:20:00,1320,1,240,22.21,29.18,29.01,1.4,Lost Customer
+1514,Daniel Miller,Male,23,709,5766,India,2020-05-20 14:02:00,1319,1,240,22.3,29.18,29.01,1.4,Lost Customer
+1515,Mike Rasmussen,Female,32,757,3611,Australia,2020-05-21 20:23:00,1318,1,150,22.39,29.18,29.01,1.4,Lost Customer
+1516,Maria Lewis,Male,34,776,6761,USA,2023-01-06 13:22:00,358,2,555,73.66,74.05,73.62,3.69,Medium Value customer
+1517,Evelyn Jones,Female,57,761,5637,India,2020-05-24 06:05:00,1316,1,40,22.48,29.18,29.01,1.4,Lost Customer
+1518,Melanie Johnson,Female,25,689,7734,Canada,2023-05-02 23:50:00,242,2,2600,80.19,74.05,73.62,3.74,Medium Value customer
+1519,Angela Simon,Female,39,611,5943,USA,2020-05-24 12:47:00,1315,1,70,22.57,29.18,29.01,1.4,Lost Customer
+1521,Brian Martinez,Male,21,750,5617,India,2020-05-26 17:25:00,1313,1,80,22.67,29.18,29.01,1.41,Lost Customer
+1522,Douglas Clark,Female,19,722,3815,Japan,2020-05-27 14:24:00,1312,1,9000,22.85,29.18,29.01,1.41,Lost Customer
+1523,Brandy Howell,Female,33,675,6751,UK,2022-02-11 16:22:00,687,2,106,54.85,74.05,73.62,3.55,Medium Value customer
+1524,Alyssa Williams,Male,37,759,7681,Spain,2020-05-28 06:26:00,1312,1,500,22.85,29.18,29.01,1.41,Lost Customer
+1525,Cory Valdez,Female,67,682,7758,Spain,2020-05-28 07:23:00,1312,1,450,22.85,29.18,29.01,1.41,Lost Customer
+1526,James Gomez,Male,39,613,4454,USA,2020-05-30 02:37:00,1310,1,80,23.03,29.18,29.01,1.41,Lost Customer
+1527,Catherine Robbins,Male,43,766,5062,Canada,2020-05-31 16:46:00,1308,1,18,23.12,29.18,29.01,1.41,Lost Customer
+1528,Manuel Sanders,Female,33,651,4750,India,2022-08-12 06:14:00,506,2,554,63.78,74.05,73.62,3.61,Medium Value customer
+1529,Scott Reynolds,Male,36,689,7791,UK,2023-01-13 12:53:00,351,1,4500,73.89,29.18,29.01,1.79,Low Value customer
+1530,Angel Pennington,Male,66,723,5953,UK,2020-06-02 20:39:00,1306,1,75,23.25,29.18,29.01,1.41,Lost Customer
+1531,Mark Torres,Male,68,659,4001,China,2020-06-03 01:46:00,1306,1,270,23.25,29.18,29.01,1.41,Lost Customer
+1532,Sean Hunter,Female,29,631,3106,China,2020-06-04 16:05:00,1304,1,8,23.39,29.18,29.01,1.41,Lost Customer
+1533,Lonnie Odonnell,Female,33,731,5851,USA,2020-06-06 21:27:00,1302,1,280,23.48,29.18,29.01,1.41,Lost Customer
+1534,Rachel Cruz,Female,64,682,7099,USA,2022-04-24 13:25:00,615,2,4875,57.43,74.05,73.62,3.57,Medium Value customer
+1536,Emily Browning,Male,69,744,4260,India,2023-10-18 01:43:00,74,2,700,94.47,74.05,73.62,3.84,Medium Value customer
+1537,Veronica Miller,Male,55,716,6651,Spain,2020-06-09 01:26:00,1300,1,175,23.57,29.18,29.01,1.41,Lost Customer
+1538,Robert Williams,Male,59,744,6195,Japan,2020-06-09 12:59:00,1299,1,3000,23.66,29.18,29.01,1.41,Lost Customer
+1539,Allison Maxwell,Male,72,760,3273,Spain,2023-04-29 22:21:00,245,2,116,80.05,74.05,73.62,3.74,Medium Value customer
+1540,Christopher Jackson,Male,72,646,3535,UK,2020-06-10 12:10:00,1298,1,240,23.8,29.18,29.01,1.41,Lost Customer
+1541,Melissa Anderson,Female,60,669,3335,China,2023-01-01 15:46:00,363,3,780,73.16,94.57,94.02,4.55,Top Customer
+1542,Christopher Howard,Female,30,655,7566,Japan,2020-06-10 23:22:00,1298,1,72,23.8,29.18,29.01,1.41,Lost Customer
+1543,Jerry Jenkins,Female,27,747,7207,India,2023-11-16 15:53:00,44,3,670,96.55,94.57,94.02,4.73,Top Customer
+1544,Tiffany Mejia,Male,68,669,7463,USA,2020-06-12 06:31:00,1297,1,40,23.93,29.18,29.01,1.41,Lost Customer
+1545,Jonathan Dunn,Male,58,728,5821,Australia,2023-08-10 14:35:00,142,1,540,88.98,29.18,29.01,1.9,Low Value customer
+1547,Jacob Steele,Female,36,678,3748,UK,2020-06-12 20:35:00,1296,1,80,24.03,29.18,29.01,1.42,Lost Customer
+1548,Vanessa Garcia,Male,28,762,7943,UK,2020-06-13 16:32:00,1295,1,400,24.25,29.18,29.01,1.42,Lost Customer
+1549,Alyssa Floyd,Female,22,706,3318,Canada,2022-02-13 07:44:00,686,2,480,54.99,74.05,73.62,3.55,Medium Value customer
+1550,Douglas Warner,Male,36,697,6390,USA,2023-09-15 11:38:00,106,2,3048,92.07,74.05,73.62,3.83,Medium Value customer
+1551,Nicholas Wiggins,Female,54,721,6535,China,2020-06-13 22:08:00,1295,1,100,24.25,29.18,29.01,1.42,Lost Customer
+1552,Ian Christian,Female,64,641,7444,Italy,2022-01-29 22:11:00,700,1,60,54.35,29.18,29.01,1.64,Low Value customer
+1553,Michael Andrews,Male,21,733,6546,India,2020-06-14 03:35:00,1295,1,15,24.25,29.18,29.01,1.42,Lost Customer
+1554,James Thompson,Female,53,615,3306,Australia,2020-06-14 05:08:00,1295,1,540,24.25,29.18,29.01,1.42,Lost Customer
+1556,Katherine Phillips,Male,69,693,7294,Canada,2020-06-17 07:56:00,1292,1,50,24.48,29.18,29.01,1.42,Lost Customer
+1557,Jessica Santiago,Male,24,723,7440,UK,2023-03-09 14:02:00,296,4,639,76.7,100.0,99.41,4.81,Top Customer
+1558,James Cabrera,Male,52,690,5478,China,2020-06-20 01:54:00,1289,1,175,24.57,29.18,29.01,1.42,Lost Customer
+1559,Christopher Bryan,Male,32,771,3393,Spain,2020-06-20 12:25:00,1288,1,600,24.66,29.18,29.01,1.42,Lost Customer
+1560,Richard Cunningham,Male,53,725,3365,China,2022-07-08 00:47:00,541,2,7500,61.92,74.05,73.62,3.6,Medium Value customer
+1561,Kendra Tate,Male,23,663,3779,Japan,2022-05-30 01:06:00,580,2,470,59.38,74.05,73.62,3.58,Medium Value customer
+1562,Elizabeth Hardy,Female,29,650,5800,Spain,2020-06-22 07:09:00,1287,1,270,24.75,29.18,29.01,1.42,Lost Customer
+1563,Gloria Moore,Male,70,655,5982,Italy,2020-06-23 02:56:00,1286,1,160,24.84,29.18,29.01,1.42,Lost Customer
+1564,Joshua Vargas,Male,27,629,6988,UK,2020-06-25 14:48:00,1283,1,24,24.93,29.18,29.01,1.42,Lost Customer
+1565,Michael Palmer,Male,19,708,7634,Spain,2023-04-19 05:24:00,256,2,130,79.24,74.05,73.62,3.73,Medium Value customer
+1566,Victoria Russo,Male,33,639,5439,China,2022-12-12 01:08:00,384,2,450,71.26,74.05,73.62,3.67,Medium Value customer
+1567,Krystal Burton,Male,37,735,7256,China,2020-06-30 21:16:00,1278,1,150,25.02,29.18,29.01,1.42,Lost Customer
+1568,Kim Thompson,Female,66,686,3628,Italy,2022-07-01 20:13:00,547,3,1265,61.38,94.57,94.02,4.46,High Value Customer
+1569,Michael Simmons,Female,68,659,6354,India,2020-07-03 16:30:00,1275,1,125,25.11,29.18,29.01,1.42,Lost Customer
+1570,Andrew Evans,Male,49,742,3783,China,2021-12-30 20:14:00,730,2,1920,52.95,74.05,73.62,3.53,Medium Value customer
+1571,Elizabeth Dennis,Male,58,613,3775,Australia,2022-07-20 02:57:00,529,2,1675,62.65,74.05,73.62,3.6,Medium Value customer
+1572,Phillip Warren,Male,71,754,6991,India,2022-11-16 20:58:00,409,2,675,69.9,74.05,73.62,3.66,Medium Value customer
+1573,Alex Tate,Female,37,765,7219,UK,2022-12-11 04:23:00,385,2,180,71.12,74.05,73.62,3.67,Medium Value customer
+1574,Corey Ellis,Female,59,724,5659,Italy,2023-02-03 11:41:00,330,2,720,75.11,74.05,73.62,3.7,Medium Value customer
+1575,David Moore,Male,47,686,6142,Japan,2020-07-07 23:38:00,1271,1,280,25.2,29.18,29.01,1.42,Lost Customer
+1576,Stephanie Henderson,Male,56,670,5863,Italy,2022-05-02 20:35:00,607,2,65,57.84,74.05,73.62,3.57,Medium Value customer
+1577,Peter Harper,Female,21,737,4730,Italy,2020-07-08 14:29:00,1270,1,1200,25.29,29.18,29.01,1.43,Lost Customer
+1578,Robert Johnson,Male,19,758,5407,Spain,2022-11-28 06:59:00,398,2,310,70.22,74.05,73.62,3.66,Medium Value customer
+1579,Tiffany Shields,Female,57,694,6598,China,2023-05-14 04:37:00,231,2,2075,81.46,74.05,73.62,3.75,Medium Value customer
+1580,Brandon Jones,Female,40,626,7997,China,2022-05-06 01:43:00,604,2,550,58.11,74.05,73.62,3.57,Medium Value customer
+1581,Latoya Orr,Female,38,695,5027,China,2023-04-21 16:22:00,253,2,5000,79.33,74.05,73.62,3.73,Medium Value customer
+1582,James Villarreal,Female,66,727,4176,Spain,2020-07-12 07:17:00,1267,1,320,25.39,29.18,29.01,1.43,Lost Customer
+1583,Robert Parks,Female,48,604,5024,Australia,2020-07-13 14:49:00,1265,1,2000,25.52,29.18,29.01,1.43,Lost Customer
+1584,Steven Lara,Female,55,625,6753,Australia,2020-07-14 03:12:00,1265,1,1200,25.52,29.18,29.01,1.43,Lost Customer
+1585,Curtis Williams,Male,26,721,6914,Italy,2020-07-14 15:42:00,1264,1,300,25.66,29.18,29.01,1.43,Lost Customer
+1586,Ashley Mcmillan,Male,47,670,6578,India,2023-01-24 01:15:00,341,1,120,74.39,29.18,29.01,1.79,Low Value customer
+1587,Jeffrey Cruz,Male,58,685,3746,Italy,2020-07-15 23:26:00,1263,1,72,25.75,29.18,29.01,1.43,Lost Customer
+1588,Theresa Hawkins,Male,55,651,4106,Canada,2020-07-16 23:00:00,1262,1,75,25.84,29.18,29.01,1.43,Lost Customer
+1589,Jesse Miller,Female,31,726,7752,Italy,2023-06-13 22:19:00,200,3,580,84.5,94.57,94.02,4.64,Top Customer
+1590,James Patrick,Female,36,619,5787,USA,2023-08-31 06:59:00,122,2,2070,90.66,74.05,73.62,3.81,Medium Value customer
+1591,Joseph Blair,Female,31,731,3343,USA,2023-01-16 18:57:00,348,2,180,73.98,74.05,73.62,3.69,Medium Value customer
+1592,Amanda Noble,Male,56,615,3267,Canada,2023-03-23 06:48:00,283,2,5500,77.92,74.05,73.62,3.72,Medium Value customer
+1594,Keith Sanchez,Male,69,768,4007,China,2022-10-21 19:22:00,435,4,753,68.22,100.0,99.41,4.74,Top Customer
+1595,Robert Davis,Male,25,696,7829,Canada,2020-07-23 16:58:00,1255,1,300,25.97,29.18,29.01,1.43,Lost Customer
+1596,Karen Brown,Male,35,655,7663,Canada,2020-07-24 00:03:00,1255,1,500,25.97,29.18,29.01,1.43,Lost Customer
+1598,Karen Cruz,Male,36,644,5613,UK,2022-09-09 20:34:00,477,1,1500,65.37,29.18,29.01,1.73,Low Value customer
+1599,Rachel Ruiz,Male,58,771,4050,Spain,2020-07-28 06:25:00,1251,1,270,26.11,29.18,29.01,1.43,Lost Customer
+1600,Robert Castro,Male,63,645,6134,UK,2020-07-29 05:05:00,1250,1,210,26.2,29.18,29.01,1.43,Lost Customer
+1601,Lisa Rodriguez,Female,19,758,5334,Spain,2022-09-26 04:22:00,461,2,105,66.23,74.05,73.62,3.63,Medium Value customer
+1602,Robert Harper,Female,61,753,6569,Spain,2020-07-29 19:15:00,1249,1,150,26.43,29.18,29.01,1.43,Lost Customer
+1603,Joshua Benton,Female,31,700,7951,Australia,2020-07-29 23:03:00,1249,1,300,26.43,29.18,29.01,1.43,Lost Customer
+1604,Sherri Curtis,Female,41,616,4162,Italy,2020-07-30 01:53:00,1249,1,600,26.43,29.18,29.01,1.43,Lost Customer
+1606,William Howard,Female,33,683,7477,USA,2020-07-30 07:07:00,1249,1,90,26.43,29.18,29.01,1.43,Lost Customer
+1607,Betty Chambers,Male,63,648,3583,Japan,2020-07-30 14:41:00,1248,1,100,26.65,29.18,29.01,1.44,Lost Customer
+1608,Todd Caldwell,Female,72,670,6252,China,2020-07-31 18:20:00,1247,1,3000,26.79,29.18,29.01,1.44,Lost Customer
+1609,Jason Garcia,Female,48,762,7536,India,2020-07-31 21:53:00,1247,1,160,26.79,29.18,29.01,1.44,Lost Customer
+1610,Jose Murphy,Female,35,667,3038,Italy,2022-10-01 19:59:00,455,2,175,67.09,74.05,73.62,3.64,Medium Value customer
+1611,Bonnie Smith,Female,36,754,7513,USA,2020-08-02 03:53:00,1246,1,100,26.93,29.18,29.01,1.44,Lost Customer
+1612,Aaron Jones,Male,55,646,3487,Spain,2020-08-04 17:07:00,1243,1,40,27.06,29.18,29.01,1.44,Lost Customer
+1613,David Warren,Female,53,678,3287,Canada,2020-08-04 20:28:00,1243,1,360,27.06,29.18,29.01,1.44,Lost Customer
+1614,Christina Cole,Male,25,631,6647,Canada,2020-08-05 12:23:00,1242,1,100,27.24,29.18,29.01,1.44,Lost Customer
+1615,Donald Rojas,Female,63,603,4676,Canada,2022-04-19 14:36:00,620,2,555,57.21,74.05,73.62,3.56,Medium Value customer
+1616,Susan Wells,Female,22,686,6060,India,2020-08-06 06:12:00,1242,1,1600,27.24,29.18,29.01,1.44,Lost Customer
+1617,Miguel Barnes,Male,66,644,6267,Australia,2023-06-30 10:03:00,183,2,235,85.31,74.05,73.62,3.77,Medium Value customer
+1618,Carolyn Webb,Female,70,658,4286,Italy,2020-08-08 03:26:00,1240,1,70,27.38,29.18,29.01,1.44,Lost Customer
+1619,Kenneth Brown,Male,68,774,4072,Spain,2020-08-09 08:15:00,1239,1,100,27.47,29.18,29.01,1.44,Lost Customer
+1620,Ann Freeman,Female,20,690,7518,USA,2023-07-16 10:04:00,167,2,1570,86.63,74.05,73.62,3.78,Medium Value customer
+1621,Mary Hood,Male,43,740,6117,Italy,2020-08-09 21:13:00,1238,1,420,27.56,29.18,29.01,1.44,Lost Customer
+1622,Sandra Moore,Male,44,732,7977,Italy,2020-08-10 23:04:00,1237,1,1500,27.65,29.18,29.01,1.44,Lost Customer
+1623,Candice Faulkner,Female,23,703,7909,Spain,2023-06-30 07:32:00,184,3,2410,85.22,94.57,94.02,4.64,Top Customer
+1624,Christine Gilmore,Male,51,757,5682,Spain,2020-08-13 15:22:00,1234,1,420,27.74,29.18,29.01,1.44,Lost Customer
+1625,Joshua Lindsey,Male,25,750,7999,Italy,2020-08-14 23:50:00,1233,1,105,27.83,29.18,29.01,1.44,Lost Customer
+1627,Jasmine Collins,Female,37,642,7822,USA,2023-08-24 19:49:00,128,2,600,90.03,74.05,73.62,3.81,Medium Value customer
+1628,Michael Willis,Male,47,625,4495,Spain,2020-08-16 16:20:00,1231,1,500,27.92,29.18,29.01,1.44,Lost Customer
+1629,Brooke Morales,Female,37,752,7118,Japan,2023-04-26 13:38:00,248,2,1700,79.87,74.05,73.62,3.73,Medium Value customer
+1630,Darius Young,Female,44,773,3205,Italy,2020-08-17 21:56:00,1230,1,100,28.01,29.18,29.01,1.45,Lost Customer
+1631,Joshua Clark,Female,71,676,4933,Spain,2020-08-18 19:29:00,1229,1,540,28.15,29.18,29.01,1.45,Lost Customer
+1632,Charles Savage,Female,68,780,6977,UK,2020-08-18 21:04:00,1229,1,60,28.15,29.18,29.01,1.45,Lost Customer
+1633,Arthur Mcmillan,Male,71,630,7370,Spain,2020-08-19 15:45:00,1228,1,200,28.29,29.18,29.01,1.45,Lost Customer
+1634,Carolyn Rangel,Female,57,748,6560,China,2020-08-20 11:04:00,1227,1,140,28.42,29.18,29.01,1.45,Lost Customer
+1635,Mary Hoffman,Female,59,764,7346,Japan,2023-10-17 19:05:00,74,3,1550,94.47,94.57,94.02,4.71,Top Customer
+1636,Dennis Ortiz,Female,70,763,3083,China,2020-08-20 18:19:00,1227,1,240,28.42,29.18,29.01,1.45,Lost Customer
+1637,Felicia Barry,Male,57,613,6532,Canada,2020-08-21 13:42:00,1226,1,500,28.56,29.18,29.01,1.45,Lost Customer
+1638,Travis Larson,Male,38,714,3282,Japan,2023-09-15 23:33:00,106,2,6200,92.07,74.05,73.62,3.83,Medium Value customer
+1639,Cheryl Larson,Female,59,650,7996,Canada,2020-08-23 02:40:00,1225,1,125,28.65,29.18,29.01,1.45,Lost Customer
+1640,Daniel Brewer,Male,69,680,6832,UK,2020-08-25 13:31:00,1222,1,400,28.74,29.18,29.01,1.45,Lost Customer
+1641,Jennifer Walker,Male,37,771,3436,Canada,2022-12-29 01:48:00,367,1,3000,72.94,29.18,29.01,1.78,Low Value customer
+1642,Anna Grimes,Female,62,637,5326,Italy,2020-08-27 09:14:00,1220,1,100,28.88,29.18,29.01,1.45,Lost Customer
+1643,Marcus Young,Male,31,714,7939,India,2020-08-28 06:11:00,1220,1,50,28.88,29.18,29.01,1.45,Lost Customer
+1644,Michelle Hampton,Female,49,705,7432,UK,2020-08-28 15:11:00,1219,1,6000,29.06,29.18,29.01,1.45,Lost Customer
+1645,Samuel Benitez,Female,36,740,4668,Australia,2020-08-29 07:11:00,1219,1,3000,29.06,29.18,29.01,1.45,Lost Customer
+1646,Carl Richards,Male,22,667,6583,Spain,2020-08-31 09:06:00,1216,1,100,29.33,29.18,29.01,1.46,Lost Customer
+1647,Jessica Johnson MD,Male,25,673,4938,India,2020-08-31 15:16:00,1216,1,500,29.33,29.18,29.01,1.46,Lost Customer
+1648,Deanna Gonzales,Male,24,767,5928,Italy,2020-09-01 02:29:00,1216,1,150,29.33,29.18,29.01,1.46,Lost Customer
+1649,Sarah Wright,Female,58,643,3808,Australia,2020-09-01 05:13:00,1216,1,70,29.33,29.18,29.01,1.46,Lost Customer
+1650,Keith Scott,Female,55,762,7695,Australia,2020-09-01 18:44:00,1215,1,360,29.6,29.18,29.01,1.46,Lost Customer
+1651,Cynthia Smith,Female,29,684,4729,USA,2020-09-01 23:02:00,1215,1,200,29.6,29.18,29.01,1.46,Lost Customer
+1652,Vincent Hobbs,Male,36,623,6092,Canada,2023-10-21 11:10:00,70,2,375,94.97,74.05,73.62,3.85,Medium Value customer
+1654,Jeffery Vaughn,Female,25,650,6818,UK,2023-11-27 02:51:00,34,2,43,97.05,74.05,73.62,3.86,Medium Value customer
+1655,Eric Shepherd,Male,21,665,3192,UK,2023-06-01 21:29:00,212,2,5300,83.41,74.05,73.62,3.76,Medium Value customer
+1656,Julie Wilson,Female,25,621,5092,India,2020-09-05 22:57:00,1211,1,120,29.74,29.18,29.01,1.46,Lost Customer
+1657,Angela Baldwin,Male,44,641,3251,Australia,2020-09-08 05:32:00,1209,1,40,29.83,29.18,29.01,1.46,Lost Customer
+1658,Kelly Goodwin,Female,71,776,7517,Spain,2020-09-09 15:52:00,1207,1,35,29.96,29.18,29.01,1.46,Lost Customer
+1659,Christopher Perez DDS,Male,18,637,5108,India,2020-09-10 03:18:00,1207,1,90,29.96,29.18,29.01,1.46,Lost Customer
+1660,Linda Roberts DVM,Female,71,610,5216,USA,2023-10-05 00:58:00,87,2,1705,93.25,74.05,73.62,3.83,Medium Value customer
+1661,Gregory Navarro,Female,43,749,6970,Japan,2020-09-10 11:01:00,1206,1,54,30.1,29.18,29.01,1.46,Lost Customer
+1662,Barbara Trujillo,Male,71,673,4336,UK,2022-09-02 00:37:00,485,2,870,65.1,74.05,73.62,3.62,Medium Value customer
+1663,Daniel Ray,Female,41,747,6170,Canada,2020-09-11 16:26:00,1205,1,200,30.19,29.18,29.01,1.46,Lost Customer
+1664,Jonathan Myers,Male,21,742,5855,India,2022-05-26 15:56:00,583,2,300,59.11,74.05,73.62,3.58,Medium Value customer
+1665,Nichole Robinson,Female,37,732,3001,China,2022-03-17 02:53:00,654,2,3350,55.76,74.05,73.62,3.55,Medium Value customer
+1666,Dawn Singleton,Female,39,753,5893,Spain,2020-09-14 19:09:00,1202,1,420,30.28,29.18,29.01,1.46,Lost Customer
+1667,Angela Kim,Male,56,650,5154,Japan,2023-06-08 01:43:00,206,2,690,84.13,74.05,73.62,3.77,Medium Value customer
+1668,April Collins,Male,41,716,3569,India,2020-09-18 10:15:00,1198,1,40,30.37,29.18,29.01,1.46,Lost Customer
+1669,Kenneth Massey,Female,60,759,5206,Canada,2020-09-20 23:40:00,1196,1,90,30.46,29.18,29.01,1.46,Lost Customer
+1670,Margaret Schroeder,Male,44,664,6461,Australia,2020-09-22 15:05:00,1194,1,3600,30.6,29.18,29.01,1.46,Lost Customer
+1671,Daniel Jordan,Female,72,705,5746,China,2023-12-24 07:07:00,7,2,125,99.73,74.05,73.62,3.88,Medium Value customer
+1672,Jessica Luna,Male,48,634,3687,Japan,2020-09-22 23:34:00,1194,1,350,30.6,29.18,29.01,1.46,Lost Customer
+1673,Jose Fitzgerald,Female,19,735,6095,India,2020-09-23 11:14:00,1193,1,4500,30.73,29.18,29.01,1.47,Lost Customer
+1674,Nathan Gibson,Female,41,715,4442,Italy,2023-09-18 17:13:00,103,3,99,92.38,94.57,94.02,4.7,Top Customer
+1675,Holly Hernandez,Female,25,663,4251,UK,2020-09-25 11:34:00,1191,1,175,30.92,29.18,29.01,1.47,Lost Customer
+1676,Lisa Clark,Male,32,719,6818,Japan,2020-09-25 11:35:00,1191,1,1600,30.92,29.18,29.01,1.47,Lost Customer
+1677,Daniel Jenkins,Male,48,630,6152,Spain,2020-09-25 15:31:00,1191,1,125,30.92,29.18,29.01,1.47,Lost Customer
+1679,Sarah Anderson,Male,54,730,7351,Japan,2020-09-27 13:50:00,1189,1,6000,31.1,29.18,29.01,1.47,Lost Customer
+1680,Audrey Arnold,Female,65,670,6780,Japan,2022-06-20 20:38:00,558,2,6140,60.61,74.05,73.62,3.59,Medium Value customer
+1681,Michael Lewis,Female,25,639,6309,China,2023-09-05 15:57:00,116,2,375,91.25,74.05,73.62,3.82,Medium Value customer
+1683,Ronald Wade,Male,25,694,5757,Spain,2022-09-27 17:43:00,459,3,2050,66.55,94.57,94.02,4.5,Top Customer
+1684,Holly Mitchell,Male,44,633,3415,Australia,2022-12-28 01:17:00,368,2,500,72.8,74.05,73.62,3.68,Medium Value customer
+1685,Theresa Potts,Male,57,686,4683,Japan,2023-06-02 11:09:00,211,1,2000,83.59,29.18,29.01,1.86,Low Value customer
+1686,Katie Jackson,Female,28,745,3283,Japan,2020-10-02 00:19:00,1185,1,75,31.19,29.18,29.01,1.47,Lost Customer
+1687,John Conley,Female,32,626,7670,Italy,2023-08-30 20:22:00,122,3,10035,90.66,94.57,94.02,4.68,Top Customer
+1688,Julie Graham,Female,44,768,5287,USA,2020-10-02 22:31:00,1184,1,18,31.28,29.18,29.01,1.47,Lost Customer
+1689,Stephen Edwards,Female,61,733,4466,Canada,2020-10-03 11:10:00,1183,1,8,31.37,29.18,29.01,1.47,Lost Customer
+1690,Sarah Smith,Female,38,734,7946,USA,2020-10-05 14:20:00,1181,1,70,31.46,29.18,29.01,1.47,Lost Customer
+1692,Hayley Freeman,Male,40,673,7737,Australia,2023-10-08 03:25:00,84,2,310,93.47,74.05,73.62,3.84,Medium Value customer
+1693,Eric Stewart,Female,21,665,7376,Canada,2020-10-08 23:07:00,1178,1,50,31.6,29.18,29.01,1.47,Lost Customer
+1694,Shelly Lawson,Male,69,700,7132,Italy,2020-10-09 02:53:00,1178,1,40,31.6,29.18,29.01,1.47,Lost Customer
+1695,Jennifer Lawson,Female,60,690,6557,Spain,2020-10-10 17:34:00,1176,1,450,31.73,29.18,29.01,1.47,Lost Customer
+1696,Juan Webb,Male,27,660,3386,Italy,2020-10-12 03:00:00,1175,1,250,31.82,29.18,29.01,1.47,Lost Customer
+1697,Michael Smith,Female,50,754,5605,China,2023-05-23 23:15:00,221,2,650,82.32,74.05,73.62,3.75,Medium Value customer
+1698,Amber Roberts,Male,51,719,6191,Japan,2020-10-13 02:34:00,1174,1,300,31.91,29.18,29.01,1.47,Lost Customer
+1701,Angela Mercado,Female,34,734,5695,Australia,2022-09-15 13:33:00,471,2,137,65.73,74.05,73.62,3.63,Medium Value customer
+1703,Jeremy Walter,Female,23,701,6395,Spain,2023-06-07 03:10:00,207,2,180,84.04,74.05,73.62,3.77,Medium Value customer
+1704,John Floyd,Female,28,724,4455,Italy,2020-10-19 20:01:00,1167,1,50,32.05,29.18,29.01,1.48,Lost Customer
+1705,Thomas Gonzales,Male,22,708,3646,Spain,2023-09-09 01:31:00,113,3,7620,91.43,94.57,94.02,4.69,Top Customer
+1706,Ashley Ball,Female,26,619,7259,Australia,2020-10-20 00:01:00,1167,1,54,32.05,29.18,29.01,1.48,Lost Customer
+1707,Justin Kelley,Male,63,636,7287,Italy,2023-01-07 23:48:00,357,2,375,73.8,74.05,73.62,3.69,Medium Value customer
+1708,Hannah Campbell,Male,49,731,7237,Australia,2022-01-29 20:26:00,700,2,1690,54.35,74.05,73.62,3.54,Medium Value customer
+1709,Tyler Marshall,Male,53,727,4396,Japan,2020-10-22 20:50:00,1164,1,280,32.18,29.18,29.01,1.48,Lost Customer
+1710,Makayla Neal,Male,71,634,3390,Australia,2023-08-24 12:02:00,128,2,400,90.03,74.05,73.62,3.81,Medium Value customer
+1711,Joshua Rojas,Male,46,695,6693,India,2020-10-23 22:46:00,1163,1,160,32.28,29.18,29.01,1.48,Lost Customer
+1712,Robert Harrison,Female,68,777,4013,Australia,2020-10-27 05:39:00,1160,1,320,32.37,29.18,29.01,1.48,Lost Customer
+1713,Kayla Foster,Male,25,672,3347,Canada,2020-10-31 14:14:00,1155,1,250,32.55,29.18,29.01,1.48,Lost Customer
+1714,Megan Taylor,Male,33,661,3168,Australia,2020-10-31 19:49:00,1155,1,120,32.55,29.18,29.01,1.48,Lost Customer
+1715,Rachel Rivera,Male,60,774,7058,Spain,2022-05-21 11:54:00,588,2,35,58.88,74.05,73.62,3.58,Medium Value customer
+1716,Connor Navarro,Female,39,697,6005,Spain,2020-11-01 05:04:00,1155,1,50,32.55,29.18,29.01,1.48,Lost Customer
+1717,Mary Torres,Female,62,652,6014,Canada,2023-07-06 15:01:00,177,2,2175,85.81,74.05,73.62,3.78,Medium Value customer
+1718,Robert Black,Female,55,649,7955,Canada,2022-06-19 12:22:00,559,3,320,60.47,94.57,94.02,4.46,High Value Customer
+1719,Kimberly Turner,Male,30,752,4800,USA,2020-11-03 23:15:00,1152,1,120,32.73,29.18,29.01,1.48,Lost Customer
+1720,Joshua Osborne,Female,26,629,4516,Italy,2023-10-25 11:39:00,66,3,840,95.38,94.57,94.02,4.72,Top Customer
+1722,Sean Mcdaniel,Male,71,626,7763,USA,2023-07-17 10:59:00,166,3,495,86.76,94.57,94.02,4.65,Top Customer
+1723,Rita Carney,Female,29,713,7049,India,2020-11-05 12:23:00,1150,1,1200,32.82,29.18,29.01,1.48,Lost Customer
+1724,Sean Haynes,Female,24,675,6870,India,2020-11-09 01:12:00,1147,1,200,32.91,29.18,29.01,1.48,Lost Customer
+1725,Melissa Proctor,Male,43,641,7480,India,2023-09-09 21:12:00,112,3,615,91.57,94.57,94.02,4.69,Top Customer
+1726,Linda Jones,Female,42,748,5288,Australia,2020-11-13 21:10:00,1142,1,16,33.0,29.18,29.01,1.48,Lost Customer
+1728,Jamie Liu,Male,55,702,7145,UK,2020-11-15 21:09:00,1140,1,40,33.09,29.18,29.01,1.48,Lost Customer
+1729,Duane Thompson,Male,18,614,5735,Australia,2022-01-30 16:03:00,699,2,600,54.49,74.05,73.62,3.54,Medium Value customer
+1730,Gary Chung,Male,27,655,5990,China,2023-01-02 21:07:00,362,3,295,73.3,94.57,94.02,4.55,Top Customer
+1731,Melanie Foster,Female,45,668,7599,UK,2020-11-22 08:11:00,1134,1,400,33.18,29.18,29.01,1.48,Lost Customer
+1732,John Stevens,Female,50,672,5797,Spain,2020-11-22 19:44:00,1133,1,8,33.27,29.18,29.01,1.48,Lost Customer
+1733,Sally Dunn,Male,51,630,3716,Canada,2023-11-07 18:54:00,53,2,3100,95.97,74.05,73.62,3.85,Medium Value customer
+1734,Peter Brown,Female,21,609,7975,Italy,2023-07-09 11:45:00,174,3,2300,85.95,94.57,94.02,4.65,Top Customer
+1735,Tracie Small,Female,43,656,4662,Japan,2022-10-26 02:25:00,431,1,240,68.68,29.18,29.01,1.75,Low Value customer
+1736,Brianna Brooks,Female,25,744,3649,Canada,2023-11-13 04:27:00,48,2,375,96.42,74.05,73.62,3.86,Medium Value customer
+1738,Andrea Griffin,Female,47,640,3685,Canada,2020-11-26 10:54:00,1129,1,105,33.36,29.18,29.01,1.49,Lost Customer
+1739,John Williams,Female,62,646,4658,Japan,2023-05-19 12:57:00,225,3,9374,82.0,94.57,94.02,4.62,Top Customer
+1740,Douglas Gonzalez,Male,42,742,3963,Canada,2023-02-19 07:01:00,315,2,365,75.97,74.05,73.62,3.7,Medium Value customer
+1741,Sharon Tucker,Female,66,763,6161,Canada,2023-07-13 05:11:00,171,2,170,86.13,74.05,73.62,3.78,Medium Value customer
+1743,Diana Jimenez,Male,69,718,5678,UK,2023-07-15 15:07:00,168,3,578,86.49,94.57,94.02,4.65,Top Customer
+1744,Betty Pollard,Female,41,643,3588,USA,2020-11-30 21:41:00,1125,1,500,33.45,29.18,29.01,1.49,Lost Customer
+1745,Janet Schwartz,Male,38,767,4842,Spain,2020-12-03 14:24:00,1122,1,108,33.54,29.18,29.01,1.49,Lost Customer
+1746,Brent Taylor,Female,48,607,7617,Japan,2020-12-04 11:37:00,1121,1,180,33.64,29.18,29.01,1.49,Lost Customer
+1748,William Mcgee,Male,56,743,6683,UK,2020-12-06 08:28:00,1120,1,105,33.73,29.18,29.01,1.49,Lost Customer
+1749,Dr. Kimberly Fleming,Female,62,619,5603,Canada,2020-12-06 22:13:00,1119,1,300,33.82,29.18,29.01,1.49,Lost Customer
+1750,Steven Ponce,Male,70,622,6005,USA,2022-01-24 10:51:00,705,2,3105,53.94,74.05,73.62,3.54,Medium Value customer
+1751,Russell Ortega,Female,58,674,6494,Canada,2022-12-16 23:38:00,379,3,1750,71.67,94.57,94.02,4.54,Top Customer
+1752,Dustin Burton,Male,57,739,6025,Australia,2023-04-24 20:43:00,250,2,375,79.6,74.05,73.62,3.73,Medium Value customer
+1753,Julie Olson,Female,40,611,6822,Japan,2020-12-10 05:27:00,1116,1,200,33.91,29.18,29.01,1.49,Lost Customer
+1754,Michael Sharp,Male,68,641,6562,Spain,2022-07-26 19:50:00,522,2,7500,63.01,74.05,73.62,3.61,Medium Value customer
+1755,Donna Thompson,Female,60,636,3476,Canada,2023-02-28 07:01:00,306,3,1830,76.43,94.57,94.02,4.58,Top Customer
+1756,Jonathan Robinson,Female,39,669,3886,UK,2020-12-15 01:25:00,1111,1,90,34.04,29.18,29.01,1.49,Lost Customer
+1757,Matthew Morgan,Male,69,600,6074,USA,2020-12-15 04:26:00,1111,1,175,34.04,29.18,29.01,1.49,Lost Customer
+1758,Cheryl Escobar,Male,37,703,4185,India,2022-04-13 03:29:00,627,1,240,56.75,29.18,29.01,1.66,Low Value customer
+1759,Kyle Owens,Male,59,615,5551,China,2020-12-16 10:14:00,1109,1,20,34.18,29.18,29.01,1.49,Lost Customer
+1760,Taylor Pratt,Female,45,724,5125,Australia,2023-12-08 17:56:00,22,4,4798,98.19,100.0,99.41,4.97,Top Customer
+1762,Adam Greene,Male,50,642,7802,Australia,2020-12-17 21:01:00,1108,1,400,34.27,29.18,29.01,1.49,Lost Customer
+1763,Jeanette Patterson,Female,69,655,3542,Canada,2022-10-15 09:38:00,441,2,170,67.91,74.05,73.62,3.64,Medium Value customer
+1764,Phillip Vazquez,Female,20,663,6911,India,2023-01-23 10:59:00,341,4,7615,74.39,100.0,99.41,4.79,Top Customer
+1765,Troy Wells,Male,65,718,6871,India,2023-12-03 11:21:00,27,3,380,97.64,94.57,94.02,4.74,Top Customer
+1766,Kristen Hogan,Male,59,752,5007,India,2020-12-24 05:59:00,1102,1,150,34.36,29.18,29.01,1.49,Lost Customer
+1767,Chloe Goodwin,Male,31,768,5817,USA,2020-12-24 17:26:00,1101,1,75,34.45,29.18,29.01,1.49,Lost Customer
+1768,Nina Griffin,Female,53,625,4794,Australia,2020-12-26 06:03:00,1100,1,175,34.54,29.18,29.01,1.49,Lost Customer
+1769,Andrea Osborne,Male,58,722,7019,Spain,2020-12-26 13:21:00,1099,1,2500,34.63,29.18,29.01,1.5,Low Value customer
+1770,Jennifer Wolf,Female,24,653,4900,Italy,2023-12-07 08:34:00,23,2,235,97.96,74.05,73.62,3.87,Medium Value customer
+1772,Dana Durham,Female,23,679,5212,India,2022-03-18 12:50:00,652,2,316,55.94,74.05,73.62,3.55,Medium Value customer
+1773,Karen Merritt,Male,20,654,7577,India,2020-12-27 23:38:00,1098,1,160,34.77,29.18,29.01,1.5,Low Value customer
+1775,Ashley Jones,Female,30,755,3857,Australia,2020-12-28 04:04:00,1098,1,4500,34.77,29.18,29.01,1.5,Low Value customer
+1776,Herbert Kelly,Female,33,740,6383,USA,2020-12-28 11:34:00,1097,1,16,34.9,29.18,29.01,1.5,Low Value customer
+1778,Shawn Edwards,Female,67,743,6481,Canada,2023-12-25 17:18:00,5,2,3240,99.82,74.05,73.62,3.88,Medium Value customer
+1780,Dr. Bridget Humphrey,Female,57,680,4196,China,2021-01-05 01:37:00,1090,1,24,35.04,29.18,29.01,1.5,Low Value customer
+1781,David Norris,Female,29,669,7149,Japan,2021-01-05 05:57:00,1090,1,125,35.04,29.18,29.01,1.5,Low Value customer
+1782,Robert Sanders,Female,48,649,6672,Japan,2021-01-05 18:44:00,1089,1,360,35.18,29.18,29.01,1.5,Low Value customer
+1783,Benjamin Turner,Female,29,610,6551,China,2023-01-31 03:03:00,334,2,120,74.8,74.05,73.62,3.7,Medium Value customer
+1784,Larry Wallace,Female,19,777,7753,Canada,2023-08-04 03:39:00,149,2,7300,87.94,74.05,73.62,3.79,Medium Value customer
+1786,Gwendolyn Ray,Female,47,662,6916,India,2021-01-07 23:07:00,1087,1,400,35.27,29.18,29.01,1.5,Low Value customer
+1787,Henry Martin,Male,67,779,4060,UK,2021-01-08 16:29:00,1086,1,280,35.36,29.18,29.01,1.5,Low Value customer
+1788,Jonathan Rogers,Female,61,691,3806,UK,2022-08-23 19:35:00,494,2,160,64.55,74.05,73.62,3.62,Medium Value customer
+1789,David Smith,Female,38,683,5255,Australia,2023-02-09 01:58:00,325,1,200,75.43,29.18,29.01,1.8,Low Value customer
+1790,Laura Jackson,Male,56,721,4118,India,2021-01-11 19:15:00,1083,1,15,35.49,29.18,29.01,1.5,Low Value customer
+1791,William Collins,Male,69,679,5439,China,2021-01-12 05:03:00,1083,1,60,35.49,29.18,29.01,1.5,Low Value customer
+1792,Eddie Bishop,Female,47,628,5556,Canada,2022-06-14 09:42:00,564,2,56,59.97,74.05,73.62,3.58,Medium Value customer
+1793,Tammy Reyes,Female,49,779,5689,USA,2021-01-12 13:47:00,1082,1,2000,35.68,29.18,29.01,1.5,Low Value customer
+1794,Travis Harper,Male,54,674,7834,Canada,2023-02-17 07:17:00,317,2,3500,75.75,74.05,73.62,3.7,Medium Value customer
+1795,Amanda Walters,Male,56,610,7985,USA,2022-09-17 11:00:00,469,2,186,65.82,74.05,73.62,3.63,Medium Value customer
+1796,Charles Oliver,Male,67,655,5211,India,2021-01-13 07:40:00,1082,1,300,35.68,29.18,29.01,1.5,Low Value customer
+1797,Megan Smith,Female,65,708,6151,USA,2021-01-14 03:05:00,1081,1,420,35.81,29.18,29.01,1.5,Low Value customer
+1798,Joshua Michael,Male,20,752,5173,China,2023-03-19 15:52:00,286,3,1310,77.79,94.57,94.02,4.59,Top Customer
+1799,Renee Simpson,Female,64,775,7024,Australia,2021-01-15 16:14:00,1079,1,80,35.9,29.18,29.01,1.5,Low Value customer
+1800,Victor Davis,Female,20,701,4429,Canada,2023-10-10 01:46:00,82,2,165,93.7,74.05,73.62,3.84,Medium Value customer
+1801,Ryan Morgan,Female,40,612,3698,China,2021-01-18 14:49:00,1076,1,210,36.08,29.18,29.01,1.51,Low Value customer
+1802,Scott Shaw,Female,21,720,6999,Italy,2021-01-19 02:14:00,1076,1,400,36.08,29.18,29.01,1.51,Low Value customer
+1803,Stephanie Bond,Female,19,778,6896,Spain,2021-01-19 03:29:00,1076,1,25,36.08,29.18,29.01,1.51,Low Value customer
+1804,Scott Butler,Male,41,636,7324,China,2021-01-19 17:21:00,1075,1,2500,36.31,29.18,29.01,1.51,Low Value customer
+1805,Christian Butler,Male,43,703,6811,China,2021-01-19 18:36:00,1075,1,100,36.31,29.18,29.01,1.51,Low Value customer
+1806,Patty Nelson,Female,38,666,6055,Spain,2022-06-24 08:01:00,555,2,1300,60.83,74.05,73.62,3.59,Medium Value customer
+1807,Abigail Tucker,Female,21,627,3322,UK,2023-01-24 15:20:00,340,2,460,74.52,74.05,73.62,3.69,Medium Value customer
+1808,William Randolph,Male,33,762,7666,India,2022-06-17 06:21:00,562,2,190,60.24,74.05,73.62,3.59,Medium Value customer
+1810,Rachel Anthony,Female,43,755,3803,Japan,2021-01-29 19:05:00,1065,1,200,36.49,29.18,29.01,1.51,Low Value customer
+1811,Robert Gardner,Female,66,778,6719,USA,2021-01-29 22:53:00,1065,1,2000,36.49,29.18,29.01,1.51,Low Value customer
+1812,Morgan Marquez,Female,36,766,5729,Spain,2022-08-24 07:27:00,494,2,1400,64.55,74.05,73.62,3.62,Medium Value customer
+1813,Carolyn Huff,Male,41,658,5841,Australia,2023-02-02 19:41:00,331,3,640,74.93,94.57,94.02,4.57,Top Customer
+1814,Savannah Macias,Male,34,779,6779,India,2023-02-02 19:59:00,331,2,137,74.93,74.05,73.62,3.7,Medium Value customer
+1815,Alexander Bowman,Male,72,718,3713,Japan,2023-06-06 02:10:00,208,2,222,83.91,74.05,73.62,3.76,Medium Value customer
+1816,Danielle Peterson,Female,19,680,6548,India,2021-01-31 19:05:00,1063,1,90,36.63,29.18,29.01,1.51,Low Value customer
+1817,Sandra Reed,Male,47,732,4435,China,2022-12-01 08:53:00,394,2,6100,70.58,74.05,73.62,3.66,Medium Value customer
+1818,Paul Miller,Female,45,617,6830,Canada,2022-06-04 05:43:00,575,2,250,59.66,74.05,73.62,3.58,Medium Value customer
+1819,David Hull,Female,53,729,3836,USA,2021-02-01 14:19:00,1062,1,200,36.81,29.18,29.01,1.51,Low Value customer
+1820,Justin Flores,Male,64,685,3707,China,2023-05-14 16:32:00,230,2,350,81.64,74.05,73.62,3.75,Medium Value customer
+1821,Kathy Dean,Female,72,631,7673,Spain,2021-02-02 07:45:00,1062,1,7500,36.81,29.18,29.01,1.51,Low Value customer
+1822,Karen Lucero,Female,43,770,6833,Spain,2021-02-02 07:51:00,1062,1,450,36.81,29.18,29.01,1.51,Low Value customer
+1823,Dr. Veronica Robinson DDS,Female,57,636,5017,India,2022-04-07 20:55:00,632,2,3150,56.48,74.05,73.62,3.56,Medium Value customer
+1824,David Nichols,Female,50,616,3897,China,2021-02-02 16:37:00,1061,1,420,36.99,29.18,29.01,1.51,Low Value customer
+1825,Kevin Johnson,Male,33,650,7135,Canada,2023-07-16 14:09:00,167,2,6105,86.63,74.05,73.62,3.78,Medium Value customer
+1826,Vanessa Adkins,Male,68,679,3526,Spain,2021-02-04 15:11:00,1059,1,90,37.08,29.18,29.01,1.51,Low Value customer
+1827,Randy Johnson,Male,69,758,7642,Spain,2023-12-21 18:15:00,9,1,90,99.37,29.18,29.01,1.98,Low Value customer
+1828,Joshua James,Male,51,627,7395,Spain,2021-02-08 11:02:00,1055,1,160,37.22,29.18,29.01,1.51,Low Value customer
+1829,Rebecca Ruiz,Female,20,669,5421,Japan,2021-02-09 00:09:00,1055,1,450,37.22,29.18,29.01,1.51,Low Value customer
+1830,Brittney Martinez,Male,33,610,3887,India,2021-02-09 23:22:00,1054,1,360,37.35,29.18,29.01,1.52,Low Value customer
+1831,Gabrielle Gomez,Male,57,616,3060,Spain,2021-02-11 01:50:00,1053,1,75,37.44,29.18,29.01,1.52,Low Value customer
+1832,Michael Miller,Female,28,673,6052,India,2023-08-09 19:24:00,143,2,375,88.76,74.05,73.62,3.8,Medium Value customer
+1833,Veronica Koch,Male,23,750,6242,Japan,2023-12-21 14:46:00,9,2,300,99.37,74.05,73.62,3.88,Medium Value customer
+1834,Sherri Andrade,Female,68,775,3860,Canada,2023-06-04 20:48:00,209,2,180,83.77,74.05,73.62,3.76,Medium Value customer
+1835,Thomas Taylor,Female,19,775,5918,China,2021-02-14 04:20:00,1050,1,2500,37.53,29.18,29.01,1.52,Low Value customer
+1836,Brandon Marquez,Female,62,645,4460,India,2022-08-24 12:48:00,493,3,7476,64.73,94.57,94.02,4.49,High Value Customer
+1837,William Spencer,Male,67,715,3401,USA,2021-02-16 08:46:00,1047,1,80,37.67,29.18,29.01,1.52,Low Value customer
+1838,Joshua Benitez,Female,51,670,4510,Italy,2022-10-18 07:42:00,439,2,150,68.0,74.05,73.62,3.64,Medium Value customer
+1839,Amber Melton,Male,28,678,7011,China,2021-02-17 08:26:00,1047,1,100,37.67,29.18,29.01,1.52,Low Value customer
+1840,Jeff Parker,Male,34,690,3982,China,2021-02-18 09:18:00,1045,1,35,37.81,29.18,29.01,1.52,Low Value customer
+1841,John Wilson,Male,45,734,4489,India,2023-03-31 02:51:00,275,2,330,78.42,74.05,73.62,3.72,Medium Value customer
+1842,Marc Wood,Male,42,693,6878,Australia,2023-08-01 20:49:00,151,3,1373,87.85,94.57,94.02,4.66,Top Customer
+1843,Rose Frazier,Male,55,612,6031,Spain,2021-02-20 02:40:00,1044,1,1500,37.9,29.18,29.01,1.52,Low Value customer
+1844,Deborah Hubbard,Female,22,639,6882,India,2022-06-05 10:23:00,573,2,280,59.75,74.05,73.62,3.58,Medium Value customer
+1845,Gordon Lawrence,Female,63,728,6387,India,2021-02-20 08:44:00,1043,1,250,38.03,29.18,29.01,1.52,Low Value customer
+1846,Kelly Brown,Male,50,729,6450,Japan,2022-05-22 01:15:00,588,2,400,58.88,74.05,73.62,3.58,Medium Value customer
+1847,Darrell Fisher,Male,36,658,4723,Canada,2021-02-20 22:25:00,1043,1,300,38.03,29.18,29.01,1.52,Low Value customer
+1848,Tina Walsh,Female,36,657,7030,India,2021-02-21 14:54:00,1042,1,1500,38.21,29.18,29.01,1.52,Low Value customer
+1849,Mary Herrera,Male,40,630,5124,India,2022-07-29 09:27:00,519,2,316,63.28,74.05,73.62,3.61,Medium Value customer
+1850,Richard Wood,Male,28,647,4790,Canada,2021-02-22 04:21:00,1042,1,1500,38.21,29.18,29.01,1.52,Low Value customer
+1853,Kimberly Vega,Male,64,651,7419,India,2023-05-06 00:20:00,239,1,25,80.69,29.18,29.01,1.84,Low Value customer
+1854,Greg Henry,Male,40,756,7381,Canada,2023-05-05 13:09:00,239,2,4625,80.69,74.05,73.62,3.74,Medium Value customer
+1855,Heather Williams,Female,72,743,7994,China,2023-07-12 21:53:00,171,2,330,86.13,74.05,73.62,3.78,Medium Value customer
+1856,Kevin Randolph,Male,43,780,3158,Australia,2021-02-26 04:59:00,1038,1,18,38.35,29.18,29.01,1.52,Low Value customer
+1857,Yvette Coleman MD,Female,58,690,5847,India,2021-02-26 13:26:00,1037,1,160,38.44,29.18,29.01,1.52,Low Value customer
+1858,Rachel Moyer,Male,21,635,3850,UK,2023-05-14 11:40:00,230,2,525,81.64,74.05,73.62,3.75,Medium Value customer
+1859,Megan Anderson,Male,55,727,6148,India,2021-03-02 10:31:00,1033,1,35,38.53,29.18,29.01,1.52,Low Value customer
+1860,Amber Wright,Male,36,686,3432,China,2022-03-21 13:53:00,649,2,2240,56.03,74.05,73.62,3.56,Medium Value customer
+1861,Calvin Wilson,Male,47,771,4142,Japan,2021-03-05 12:35:00,1030,1,450,38.71,29.18,29.01,1.53,Low Value customer
+1862,Geoffrey Brooks,Female,35,642,5518,USA,2021-03-05 15:21:00,1030,1,3000,38.71,29.18,29.01,1.53,Low Value customer
+1863,Kathleen Conley,Female,46,730,4639,Spain,2023-05-05 08:29:00,240,2,720,80.46,74.05,73.62,3.74,Medium Value customer
+1864,Scott Mcdonald,Female,53,752,3975,UK,2021-03-06 07:54:00,1030,1,125,38.71,29.18,29.01,1.53,Low Value customer
+1865,Teresa Love,Male,50,675,4709,Italy,2022-08-06 23:57:00,511,2,300,63.42,74.05,73.62,3.61,Medium Value customer
+1866,Laura Jones,Male,34,735,7730,Australia,2023-07-06 07:03:00,178,2,2420,85.63,74.05,73.62,3.78,Medium Value customer
+1867,Oscar Cobb,Female,68,623,6116,Canada,2022-07-20 20:27:00,528,2,6075,62.74,74.05,73.62,3.61,Medium Value customer
+1868,Michelle Smith,Male,65,715,7240,India,2021-03-07 23:39:00,1028,1,45,38.89,29.18,29.01,1.53,Low Value customer
+1869,Jordan Garcia,Female,56,675,3481,USA,2022-12-11 06:53:00,385,2,210,71.12,74.05,73.62,3.67,Medium Value customer
+1871,Karen Jones,Female,56,659,3489,Australia,2023-11-30 03:06:00,31,2,3840,97.46,74.05,73.62,3.87,Medium Value customer
+1872,Amanda Lloyd,Female,30,719,4438,Japan,2021-03-12 14:15:00,1023,1,50,38.98,29.18,29.01,1.53,Low Value customer
+1873,Brandon Hill,Female,70,706,5641,India,2022-04-15 13:43:00,624,1,6000,56.94,29.18,29.01,1.66,Low Value customer
+1874,Brandon Yu,Female,68,658,3809,UK,2021-03-13 23:51:00,1022,1,105,39.08,29.18,29.01,1.53,Low Value customer
+1875,Allen Foley,Male,61,679,5383,Japan,2021-12-31 03:42:00,730,1,75,52.95,29.18,29.01,1.63,Low Value customer
+1876,Peter Vazquez,Female,66,768,4241,UK,2021-03-14 10:50:00,1021,1,240,39.17,29.18,29.01,1.53,Low Value customer
+1877,Adam Barajas,Male,32,711,6327,Canada,2023-12-12 11:02:00,18,2,380,98.73,74.05,73.62,3.88,Medium Value customer
+1878,Charles Murray,Male,36,661,5548,China,2023-10-17 10:49:00,74,2,640,94.47,74.05,73.62,3.84,Medium Value customer
+1879,Kelsey Charles,Female,40,742,5017,Spain,2021-03-18 02:14:00,1018,1,540,39.3,29.18,29.01,1.53,Low Value customer
+1880,Ronald Patel,Male,70,655,4460,Canada,2021-03-18 05:45:00,1018,1,600,39.3,29.18,29.01,1.53,Low Value customer
+1881,Andrea Stevens,Male,34,640,4773,UK,2021-03-21 14:14:00,1014,1,32,39.48,29.18,29.01,1.53,Low Value customer
+1882,Timothy Johnson,Female,68,778,6996,Spain,2021-03-21 16:50:00,1014,1,300,39.48,29.18,29.01,1.53,Low Value customer
+1883,Diane Cardenas,Female,30,656,3905,India,2021-03-23 06:25:00,1013,1,150,39.62,29.18,29.01,1.53,Low Value customer
+1884,Reginald Martinez,Male,54,638,5018,Canada,2022-08-28 10:03:00,489,2,645,64.91,74.05,73.62,3.62,Medium Value customer
+1885,Alyssa Mccoy,Female,35,602,4791,Italy,2023-10-15 12:12:00,76,2,41,94.2,74.05,73.62,3.84,Medium Value customer
+1887,Jennifer Holt,Male,24,610,3876,China,2021-03-27 03:44:00,1009,1,1500,39.71,29.18,29.01,1.53,Low Value customer
+1888,Kayla Thomas,Female,36,648,7627,Japan,2022-07-10 18:48:00,538,2,225,62.24,74.05,73.62,3.6,Medium Value customer
+1889,Karen Foster,Male,39,684,3259,Canada,2021-04-01 15:37:00,1003,1,105,39.8,29.18,29.01,1.53,Low Value customer
+1890,Jeffrey Gonzalez,Male,65,694,3061,Italy,2022-05-11 15:37:00,598,2,1175,58.57,74.05,73.62,3.57,Medium Value customer
+1891,Logan Webb,Female,51,678,5654,Spain,2022-05-24 20:57:00,585,2,1635,59.02,74.05,73.62,3.58,Medium Value customer
+1892,Dennis Johnson,Female,22,778,3174,Italy,2021-04-06 08:12:00,999,1,9000,39.89,29.18,29.01,1.53,Low Value customer
+1893,Jeffery Peterson,Male,48,763,4994,USA,2022-06-16 08:43:00,562,2,7675,60.24,74.05,73.62,3.59,Medium Value customer
+1894,David Castro,Male,27,673,3054,China,2023-06-02 14:28:00,211,2,2032,83.59,74.05,73.62,3.76,Medium Value customer
+1895,Mrs. Sierra Lawson DDS,Female,38,617,5258,Japan,2023-11-10 01:42:00,51,3,7835,96.15,94.57,94.02,4.72,Top Customer
+1896,Madison Stewart,Female,24,708,3880,Canada,2021-04-08 07:48:00,997,1,90,39.98,29.18,29.01,1.54,Low Value customer
+1897,Jose Cox,Male,58,681,6354,China,2023-10-08 16:19:00,83,1,7200,93.56,29.18,29.01,1.94,Low Value customer
+1898,Tyler Ramsey,Male,41,681,6089,Australia,2021-04-11 20:16:00,993,1,100,40.07,29.18,29.01,1.54,Low Value customer
+1899,Danny Rivera,Male,61,646,6863,Australia,2021-04-13 00:26:00,992,1,1200,40.16,29.18,29.01,1.54,Low Value customer
+1900,Meagan James,Male,70,635,3717,USA,2022-03-17 18:47:00,653,2,230,55.85,74.05,73.62,3.55,Medium Value customer
+1901,Katie Edwards,Male,56,730,4991,Canada,2021-04-14 06:28:00,991,1,70,40.25,29.18,29.01,1.54,Low Value customer
+1902,Jim Jones,Female,57,699,7006,Italy,2023-07-19 02:00:00,165,1,175,86.9,29.18,29.01,1.89,Low Value customer
+1903,Alexa Brock,Female,47,701,4972,Australia,2021-04-17 08:37:00,987,1,72,40.44,29.18,29.01,1.54,Low Value customer
+1904,Jaime Cisneros,Female,61,736,7138,Spain,2021-04-17 18:35:00,987,1,70,40.44,29.18,29.01,1.54,Low Value customer
+1905,Jennifer White,Male,63,691,7546,UK,2022-07-01 11:15:00,547,3,188,61.38,94.57,94.02,4.46,High Value Customer
+1906,Tracy Erickson,Female,28,649,3627,UK,2023-12-19 07:27:00,12,2,6270,99.05,74.05,73.62,3.88,Medium Value customer
+1907,Kevin Jackson,Male,71,729,6150,UK,2023-07-24 22:52:00,159,3,258,87.35,94.57,94.02,4.66,Top Customer
+1908,Maria Guerra,Female,28,636,3862,China,2021-04-18 08:11:00,987,1,32,40.44,29.18,29.01,1.54,Low Value customer
+1909,Jennifer Scott,Male,41,772,3316,Canada,2022-10-25 16:52:00,431,2,3036,68.68,74.05,73.62,3.65,Medium Value customer
+1910,Anthony Ortega MD,Female,32,733,4139,Canada,2021-04-20 14:42:00,984,1,32,40.62,29.18,29.01,1.54,Low Value customer
+1911,Elizabeth Haney,Male,31,692,7702,USA,2022-12-30 14:56:00,365,2,310,73.07,74.05,73.62,3.68,Medium Value customer
+1912,Charles Roberts,Female,30,666,7258,Italy,2022-11-29 23:27:00,396,2,1220,70.44,74.05,73.62,3.66,Medium Value customer
+1913,Kelly Martin,Male,36,752,5418,India,2021-04-22 07:09:00,983,1,210,40.75,29.18,29.01,1.54,Low Value customer
+1914,Angel Faulkner,Female,24,770,4811,China,2021-04-22 07:10:00,983,1,1200,40.75,29.18,29.01,1.54,Low Value customer
+1915,Kristen Christensen,Male,42,758,6545,USA,2021-04-23 16:20:00,981,1,2000,40.93,29.18,29.01,1.54,Low Value customer
+1916,Megan Harris,Male,20,619,5347,Canada,2021-04-24 08:05:00,981,1,6000,40.93,29.18,29.01,1.54,Low Value customer
+1917,Tanya Porter,Female,40,634,5738,USA,2022-10-05 00:07:00,452,3,2440,67.36,94.57,94.02,4.51,Top Customer
+1918,Shelby Delgado,Male,47,660,5128,India,2021-04-27 07:45:00,978,1,175,41.07,29.18,29.01,1.54,Low Value customer
+1919,Richard Castillo,Male,48,678,3980,USA,2022-01-22 04:24:00,708,2,130,53.81,74.05,73.62,3.54,Medium Value customer
+1920,Dennis Holloway,Female,41,633,5039,Japan,2021-04-28 11:30:00,976,1,2400,41.21,29.18,29.01,1.54,Low Value customer
+1921,Holly Beard,Female,43,698,6508,USA,2021-04-29 01:01:00,976,1,90,41.21,29.18,29.01,1.54,Low Value customer
+1922,Jordan Richardson,Male,36,621,3864,Japan,2023-05-31 09:01:00,213,3,610,83.23,94.57,94.02,4.63,Top Customer
+1923,William Gaines,Male,39,625,5143,Canada,2021-04-30 04:33:00,975,1,150,41.34,29.18,29.01,1.55,Low Value customer
+1925,Darren Pacheco,Female,66,767,5000,Spain,2022-04-28 03:15:00,612,2,3210,57.66,74.05,73.62,3.57,Medium Value customer
+1926,Cynthia Mcdonald,Male,71,715,3649,Spain,2022-05-06 19:16:00,603,2,4770,58.25,74.05,73.62,3.57,Medium Value customer
+1927,Mark Stephens,Male,35,768,6120,Spain,2021-05-03 07:09:00,972,1,50,41.43,29.18,29.01,1.55,Low Value customer
+1928,Christopher Callahan,Male,48,659,7592,Japan,2023-08-28 18:09:00,124,3,2810,90.39,94.57,94.02,4.68,Top Customer
+1929,Paula Smith,Female,19,766,3567,Japan,2022-04-05 14:37:00,634,2,123,56.3,74.05,73.62,3.56,Medium Value customer
+1930,George Walter,Female,20,730,5256,Spain,2021-05-07 12:13:00,967,1,40,41.57,29.18,29.01,1.55,Low Value customer
+1931,Charles Werner,Female,24,671,6025,China,2021-05-07 13:05:00,967,1,18,41.57,29.18,29.01,1.55,Low Value customer
+1932,Aaron Harris,Male,25,704,3397,USA,2021-05-08 12:26:00,966,1,3000,41.7,29.18,29.01,1.55,Low Value customer
+1933,Jacob Davis,Female,52,720,6326,Australia,2023-02-04 01:28:00,330,2,294,75.11,74.05,73.62,3.7,Medium Value customer
+1934,Shannon Green,Female,27,741,7565,India,2022-10-05 06:14:00,452,2,480,67.36,74.05,73.62,3.64,Medium Value customer
+1935,Evan Stone,Male,28,699,3355,Italy,2023-07-06 01:19:00,178,3,2735,85.63,94.57,94.02,4.65,Top Customer
+1936,Joseph Cobb,Male,25,722,6723,UK,2021-05-12 22:28:00,962,1,175,41.84,29.18,29.01,1.55,Low Value customer
+1937,Alexis Short,Female,68,676,6636,India,2021-05-13 00:17:00,962,1,175,41.84,29.18,29.01,1.55,Low Value customer
+1939,Chad Flores,Male,42,652,5189,USA,2021-05-13 18:08:00,961,1,500,42.02,29.18,29.01,1.55,Low Value customer
+1941,Clarence Wells,Male,56,756,6610,Australia,2021-05-14 05:19:00,961,1,210,42.02,29.18,29.01,1.55,Low Value customer
+1942,Tyler Hawkins,Female,67,725,7451,China,2022-09-13 22:47:00,473,2,195,65.5,74.05,73.62,3.63,Medium Value customer
+1943,Molly Shaw,Female,23,703,5148,Spain,2023-05-22 13:30:00,222,1,90,82.18,29.18,29.01,1.85,Low Value customer
+1944,Catherine Molina,Female,59,738,6533,Japan,2023-05-28 02:37:00,217,2,225,82.73,74.05,73.62,3.76,Medium Value customer
+1945,Benjamin Ryan,Female,53,775,5908,India,2021-05-16 13:32:00,958,1,120,42.16,29.18,29.01,1.55,Low Value customer
+1947,Jennifer Weaver,Female,21,723,7159,UK,2023-06-13 14:00:00,200,3,2670,84.5,94.57,94.02,4.64,Top Customer
+1948,Donna Steele,Male,37,679,3811,India,2023-08-05 08:44:00,147,2,1635,88.21,74.05,73.62,3.8,Medium Value customer
+1949,Kendra Schmidt,Male,51,683,3861,India,2021-05-20 13:20:00,954,1,105,42.29,29.18,29.01,1.55,Low Value customer
+1950,Paul Martin,Male,55,622,3187,Australia,2021-05-20 17:27:00,954,1,150,42.29,29.18,29.01,1.55,Low Value customer
+1951,Andrew Hutchinson,Male,72,633,7751,Italy,2023-04-15 21:53:00,259,2,240,79.06,74.05,73.62,3.73,Medium Value customer
+1952,Katrina Edwards,Female,57,727,4481,UK,2023-12-09 05:15:00,22,4,600,98.19,100.0,99.41,4.97,Top Customer
+1953,Bradley Morris,Male,23,655,3185,Spain,2021-05-22 21:51:00,952,1,210,42.43,29.18,29.01,1.55,Low Value customer
+1954,Kenneth Bond,Female,34,618,6112,Italy,2021-05-23 13:38:00,951,1,90,42.52,29.18,29.01,1.55,Low Value customer
+1955,Justin Sanford,Female,59,606,6357,Japan,2023-09-30 16:41:00,91,3,242,92.84,94.57,94.02,4.7,Top Customer
+1957,Eric Powell,Male,46,699,4464,India,2022-08-18 20:25:00,499,1,70,64.23,29.18,29.01,1.72,Low Value customer
+1958,Anthony Perez,Female,69,720,7795,Japan,2021-05-24 20:56:00,950,1,1500,42.61,29.18,29.01,1.55,Low Value customer
+1960,Ana Wallace,Female,56,610,7263,Canada,2021-05-25 08:33:00,949,1,300,42.7,29.18,29.01,1.56,Low Value customer
+1961,Richard Sherman,Male,33,673,6320,Italy,2021-05-27 19:34:00,947,1,150,42.79,29.18,29.01,1.56,Low Value customer
+1962,Anna Blackburn,Male,43,675,5686,India,2021-05-31 11:50:00,943,1,50,42.97,29.18,29.01,1.56,Low Value customer
+1963,John Gibson,Female,69,715,5585,Japan,2021-05-31 16:50:00,943,1,80,42.97,29.18,29.01,1.56,Low Value customer
+1964,Nicholas Knight,Male,55,722,5241,Australia,2021-05-31 21:57:00,943,1,800,42.97,29.18,29.01,1.56,Low Value customer
+1965,Jacob Burch,Female,20,628,7171,Canada,2022-03-31 03:17:00,640,2,140,56.21,74.05,73.62,3.56,Medium Value customer
+1966,Christopher Boyd,Female,24,610,4549,Canada,2023-12-21 19:14:00,9,1,40,99.37,29.18,29.01,1.98,Low Value customer
+1967,Andrew Austin,Male,47,756,5727,China,2021-06-03 15:52:00,940,1,25,43.16,29.18,29.01,1.56,Low Value customer
+1968,Tyler Jones,Female,27,696,5728,Canada,2023-04-22 14:36:00,252,3,240,79.42,94.57,94.02,4.6,Top Customer
+1969,Sarah Rodriguez,Male,59,612,6503,India,2023-03-25 09:56:00,280,2,9210,78.24,74.05,73.62,3.72,Medium Value customer
+1970,Victor Cohen,Male,22,763,6133,Australia,2021-06-05 02:00:00,939,1,90,43.25,29.18,29.01,1.56,Low Value customer
+1971,Kimberly Wade,Female,47,727,3745,China,2021-06-06 10:44:00,937,1,7200,43.34,29.18,29.01,1.56,Low Value customer
+1973,Kevin Wagner,Male,27,714,6054,Canada,2021-06-08 00:53:00,936,1,48,43.43,29.18,29.01,1.56,Low Value customer
+1974,Christopher Burch,Female,35,611,3783,Canada,2022-12-07 07:49:00,389,3,840,70.81,94.57,94.02,4.53,Top Customer
+1975,Megan Daniel,Male,20,614,4561,UK,2021-06-08 20:13:00,935,1,1200,43.61,29.18,29.01,1.56,Low Value customer
+1976,Anna Davis,Male,72,653,5134,Australia,2021-06-09 01:26:00,935,1,100,43.61,29.18,29.01,1.56,Low Value customer
+1977,Mrs. Jennifer Williams,Male,29,711,6895,Japan,2021-06-09 05:58:00,935,1,240,43.61,29.18,29.01,1.56,Low Value customer
+1978,Lisa Ross,Female,18,730,4842,UK,2023-12-15 12:22:00,15,3,1630,98.91,94.57,94.02,4.75,Top Customer
+1979,Jesse Bailey DDS,Male,33,600,3591,India,2021-06-10 19:37:00,933,1,400,43.79,29.18,29.01,1.56,Low Value customer
+1980,Craig Harris,Male,50,651,7429,Spain,2023-02-05 08:17:00,329,2,64,75.25,74.05,73.62,3.7,Medium Value customer
+1981,Claire Green,Male,19,741,3551,Japan,2022-06-29 03:09:00,550,1,1500,61.02,29.18,29.01,1.69,Low Value customer
+1982,Jessica Freeman,Male,18,734,7776,Italy,2021-06-12 10:19:00,931,1,75,43.88,29.18,29.01,1.56,Low Value customer
+1983,Marvin Lam,Female,31,635,6911,USA,2023-11-23 13:02:00,37,2,192,96.83,74.05,73.62,3.86,Medium Value customer
+1985,Sergio Butler,Male,68,697,7912,Japan,2021-06-15 14:56:00,928,1,3600,43.97,29.18,29.01,1.57,Low Value customer
+1986,Martin Church,Female,18,632,6302,Japan,2021-06-16 18:02:00,927,1,75,44.06,29.18,29.01,1.57,Low Value customer
+1987,Tiffany Riley,Male,31,682,4097,Australia,2021-06-19 00:04:00,925,1,120,44.15,29.18,29.01,1.57,Low Value customer
+1988,Christine Scott,Male,49,748,3049,Italy,2022-11-08 04:30:00,418,1,200,69.36,29.18,29.01,1.76,Low Value customer
+1989,Lorraine Miller,Female,31,778,6209,Spain,2021-06-21 01:25:00,923,1,35,44.24,29.18,29.01,1.57,Low Value customer
+1990,Jacqueline Mills,Male,33,721,7553,India,2021-06-21 10:00:00,922,1,600,44.33,29.18,29.01,1.57,Low Value customer
+1991,Tamara Green,Female,66,636,6399,India,2021-06-25 03:12:00,919,1,72,44.42,29.18,29.01,1.57,Low Value customer
+1992,Rebekah Morris,Male,72,777,6903,Canada,2023-12-09 12:54:00,21,3,2350,98.41,94.57,94.02,4.74,Top Customer
+1993,Crystal Mitchell,Male,38,677,7322,Italy,2023-01-05 21:35:00,359,4,4180,73.53,100.0,99.41,4.78,Top Customer
+1994,Hector Glover,Female,25,608,5798,Australia,2021-06-30 15:45:00,913,1,350,44.51,29.18,29.01,1.57,Low Value customer
+1995,Danielle Howard,Female,60,618,5362,Italy,2023-07-20 22:09:00,163,2,6600,87.17,74.05,73.62,3.79,Medium Value customer
+1996,Justin Lawrence,Female,21,617,5651,Australia,2023-12-09 13:49:00,21,3,440,98.41,94.57,94.02,4.74,Top Customer
+1997,Melissa Williams,Female,68,775,4999,UK,2021-07-03 23:26:00,910,1,105,44.65,29.18,29.01,1.57,Low Value customer
+1998,Tiffany Velazquez,Male,58,708,6834,Canada,2021-07-04 01:44:00,910,1,75,44.65,29.18,29.01,1.57,Low Value customer
+1999,Angel Michael,Male,20,705,5263,USA,2021-07-04 15:23:00,909,1,240,44.83,29.18,29.01,1.57,Low Value customer
+2000,Alisha Peterson,Male,56,759,7079,Australia,2021-07-05 06:50:00,909,1,300,44.83,29.18,29.01,1.57,Low Value customer
+2001,Steve Harris,Female,58,681,6866,Italy,2021-07-09 11:55:00,904,1,1500,45.06,29.18,29.01,1.57,Low Value customer
+2002,Kenneth Sherman,Male,31,780,6151,UK,2021-07-09 20:58:00,904,1,108,45.06,29.18,29.01,1.57,Low Value customer
+2003,Andrew Brooks,Female,37,704,5940,Spain,2021-07-10 07:07:00,904,1,32,45.06,29.18,29.01,1.57,Low Value customer
+2004,Christopher Harper,Female,22,760,6633,Japan,2022-12-12 09:28:00,383,2,130,71.35,74.05,73.62,3.67,Medium Value customer
+2005,Nicole Meyer,Female,47,649,5111,USA,2021-07-14 18:15:00,899,1,500,45.24,29.18,29.01,1.57,Low Value customer
+2006,Keith Williams,Female,68,616,4239,Canada,2022-10-22 05:49:00,435,3,235,68.22,94.57,94.02,4.52,Top Customer
+2007,Katie Simmons,Female,44,694,4336,Canada,2023-07-02 22:07:00,181,4,2715,85.4,100.0,99.41,4.87,Top Customer
+2008,Philip Hill,Female,38,603,4768,UK,2022-12-23 14:14:00,372,2,210,72.3,74.05,73.62,3.68,Medium Value customer
+2009,Alejandro Jones,Female,26,677,6586,USA,2023-04-25 22:53:00,249,2,44,79.74,74.05,73.62,3.73,Medium Value customer
+2010,Kayla Gray,Male,48,680,6754,Canada,2023-02-27 01:15:00,307,3,320,76.34,94.57,94.02,4.58,Top Customer
+2011,Michael Fox,Male,67,677,6930,USA,2023-11-30 00:01:00,31,2,325,97.46,74.05,73.62,3.87,Medium Value customer
+2012,Jacob Hill,Male,66,607,5110,India,2023-04-01 13:22:00,273,1,480,78.56,29.18,29.01,1.82,Low Value customer
+2013,Shane Bennett,Female,44,703,4999,USA,2021-07-19 03:24:00,895,1,35,45.33,29.18,29.01,1.58,Low Value customer
+2014,Nicholas Clark,Male,20,676,5870,Italy,2023-11-01 22:02:00,59,2,107,95.56,74.05,73.62,3.85,Medium Value customer
+2015,Sarah Garcia,Male,67,667,5145,Spain,2023-03-14 08:49:00,291,1,50,77.2,29.18,29.01,1.81,Low Value customer
+2017,Antonio Gray,Female,45,704,3700,USA,2023-04-18 02:49:00,257,3,4785,79.15,94.57,94.02,4.6,Top Customer
+2018,Patricia Perry,Female,19,605,3010,China,2022-12-24 19:45:00,371,2,51,72.44,74.05,73.62,3.68,Medium Value customer
+2020,Amanda Ortiz,Male,21,631,5669,UK,2022-07-16 02:34:00,533,2,516,62.47,74.05,73.62,3.6,Medium Value customer
+2021,John Hale,Male,48,766,4905,China,2021-07-23 18:46:00,890,1,150,45.42,29.18,29.01,1.58,Low Value customer
+2022,Lori Hall,Female,43,759,5851,Italy,2023-11-20 08:16:00,41,1,2500,96.74,29.18,29.01,1.96,Low Value customer
+2023,Justin Miller,Male,31,770,7516,Japan,2021-07-24 20:46:00,889,1,200,45.51,29.18,29.01,1.58,Low Value customer
+2024,Amanda Hanna,Male,64,675,3913,UK,2022-08-30 06:58:00,488,2,190,65.0,74.05,73.62,3.62,Medium Value customer
+2025,Nancy Ramos,Male,56,600,4472,Australia,2023-10-09 23:50:00,82,2,3400,93.7,74.05,73.62,3.84,Medium Value customer
+2026,Andrew Patterson,Female,26,742,3013,Spain,2021-07-27 20:02:00,886,1,75,45.6,29.18,29.01,1.58,Low Value customer
+2027,Melissa Ryan,Female,37,608,4608,Japan,2022-09-13 12:32:00,473,2,1860,65.5,74.05,73.62,3.63,Medium Value customer
+2028,Vanessa Short,Female,59,699,5557,UK,2022-11-21 13:13:00,404,2,180,69.99,74.05,73.62,3.66,Medium Value customer
+2029,Nicholas Keller,Female,56,664,6874,Australia,2021-07-31 20:59:00,882,1,210,45.69,29.18,29.01,1.58,Low Value customer
+2031,Ernest Henry,Male,48,677,5656,Japan,2021-08-02 18:53:00,880,1,75,45.78,29.18,29.01,1.58,Low Value customer
+2032,Caroline Marshall,Female,56,756,3188,UK,2023-03-18 15:34:00,287,2,1070,77.65,74.05,73.62,3.72,Medium Value customer
+2033,Jason Sullivan,Male,72,650,5832,Australia,2022-07-01 07:18:00,548,3,335,61.2,94.57,94.02,4.46,High Value Customer
+2034,Eric West,Female,54,693,3056,Italy,2023-07-25 23:43:00,158,3,9024,87.49,94.57,94.02,4.66,Top Customer
+2035,Dr. Nicole Anderson,Female,53,698,5697,Japan,2021-08-07 14:00:00,875,1,36,45.87,29.18,29.01,1.58,Low Value customer
+2036,Stephanie Colon,Female,37,613,7297,Australia,2022-12-01 19:51:00,394,3,455,70.58,94.57,94.02,4.53,Top Customer
+2037,Jason Oneal,Male,18,657,5920,Canada,2023-04-01 22:09:00,273,3,4920,78.56,94.57,94.02,4.59,Top Customer
+2038,Stephanie Walker,Male,58,741,3790,Italy,2022-11-08 16:46:00,417,3,220,69.45,94.57,94.02,4.52,Top Customer
+2039,David Lester,Female,47,734,6471,Australia,2021-08-09 08:20:00,874,1,100,45.97,29.18,29.01,1.58,Low Value customer
+2040,Eric Ellis,Male,35,695,5791,Canada,2022-08-14 12:01:00,503,2,198,64.01,74.05,73.62,3.61,Medium Value customer
+2041,Christopher Adams,Male,60,724,7109,Japan,2023-08-20 03:40:00,133,2,315,89.53,74.05,73.62,3.81,Medium Value customer
+2042,Daniel Ramos,Female,66,773,6127,UK,2021-08-10 20:35:00,872,1,108,46.06,29.18,29.01,1.58,Low Value customer
+2043,John Rodriguez,Male,32,638,7958,Italy,2021-08-11 20:57:00,871,1,3000,46.15,29.18,29.01,1.58,Low Value customer
+2044,Bryan Wang,Male,42,691,7356,Japan,2021-08-12 13:08:00,870,1,6000,46.28,29.18,29.01,1.58,Low Value customer
+2045,Jessica Martin,Male,19,627,5018,Canada,2021-08-12 15:23:00,870,1,300,46.28,29.18,29.01,1.58,Low Value customer
+2047,Sarah Johnson,Female,69,606,5797,India,2021-08-13 20:20:00,869,1,75,46.42,29.18,29.01,1.58,Low Value customer
+2048,Eric Cunningham,Female,49,682,6473,Italy,2022-10-02 12:35:00,454,2,340,67.18,74.05,73.62,3.64,Medium Value customer
+2049,Stephanie Smith,Female,53,770,5463,Spain,2021-08-16 04:00:00,867,1,100,46.51,29.18,29.01,1.58,Low Value customer
+2050,Stephen May,Female,42,636,3029,India,2021-08-16 14:34:00,866,1,90,46.65,29.18,29.01,1.59,Low Value customer
+2051,Lisa Morgan,Female,41,752,7268,Japan,2021-08-16 18:48:00,866,1,270,46.65,29.18,29.01,1.59,Low Value customer
+2052,Michael Maldonado,Female,41,726,7549,UK,2023-01-22 16:35:00,342,2,200,74.25,74.05,73.62,3.69,Medium Value customer
+2053,Kevin Wright,Male,71,713,7134,Japan,2021-08-18 05:35:00,865,1,360,46.78,29.18,29.01,1.59,Low Value customer
+2054,Jeremy Rios,Male,21,660,4320,USA,2021-08-19 04:27:00,864,1,45,46.87,29.18,29.01,1.59,Low Value customer
+2055,Rebecca Berg,Male,64,768,4018,Italy,2021-08-19 10:20:00,863,1,450,46.96,29.18,29.01,1.59,Low Value customer
+2056,Lisa Coleman,Male,37,729,3148,USA,2021-08-20 11:34:00,862,1,200,47.05,29.18,29.01,1.59,Low Value customer
+2057,Chris Holmes,Female,63,729,5451,Italy,2021-08-21 18:02:00,861,1,4500,47.14,29.18,29.01,1.59,Low Value customer
+2058,Victoria Davis,Male,64,693,4579,Italy,2023-11-04 00:29:00,57,3,4851,95.65,94.57,94.02,4.72,Top Customer
+2059,Meghan Hall,Female,51,634,4406,Australia,2021-08-22 11:58:00,860,1,6000,47.28,29.18,29.01,1.59,Low Value customer
+2060,Kevin Lamb,Male,48,714,6792,Australia,2021-08-22 22:09:00,860,1,30,47.28,29.18,29.01,1.59,Low Value customer
+2061,David Stuart,Male,49,616,7484,Spain,2021-08-25 05:34:00,858,1,250,47.42,29.18,29.01,1.59,Low Value customer
+2062,Lauren Perez,Male,50,677,4263,India,2023-07-14 14:32:00,169,2,215,86.4,74.05,73.62,3.78,Medium Value customer
+2063,Emily Smith,Female,36,740,5637,USA,2021-08-27 01:13:00,856,1,100,47.51,29.18,29.01,1.59,Low Value customer
+2064,Amber Johnson DVM,Male,51,754,5069,Italy,2023-06-11 12:23:00,202,3,7770,84.32,94.57,94.02,4.64,Top Customer
+2065,Sarah Forbes,Male,35,753,3008,Canada,2022-10-30 04:18:00,427,2,1180,68.9,74.05,73.62,3.65,Medium Value customer
+2066,Melanie Henderson,Male,56,655,4347,UK,2021-08-30 00:39:00,853,1,2500,47.6,29.18,29.01,1.59,Low Value customer
+2067,Keith Hubbard,Female,58,762,7408,Japan,2022-06-02 16:27:00,576,2,1360,59.56,74.05,73.62,3.58,Medium Value customer
+2068,Larry Anderson,Male,32,694,4700,Japan,2022-01-13 01:03:00,717,2,310,53.58,74.05,73.62,3.54,Medium Value customer
+2070,Barbara Ray,Female,33,694,4374,UK,2021-08-31 14:37:00,851,1,420,47.69,29.18,29.01,1.59,Low Value customer
+2071,Matthew Humphrey,Female,22,693,4142,Japan,2022-11-26 07:38:00,400,2,345,70.08,74.05,73.62,3.66,Medium Value customer
+2072,Trevor Wells,Female,63,629,3856,India,2022-09-25 11:58:00,461,2,280,66.23,74.05,73.62,3.63,Medium Value customer
+2073,Bryan Gates,Female,36,744,7327,Canada,2023-04-05 14:14:00,269,2,270,78.88,74.05,73.62,3.73,Medium Value customer
+2074,Matthew Freeman,Male,66,728,4705,UK,2021-09-04 14:50:00,847,1,160,47.78,29.18,29.01,1.59,Low Value customer
+2075,Jamie Le,Female,26,721,3153,India,2021-09-05 22:25:00,846,1,160,47.87,29.18,29.01,1.59,Low Value customer
+2076,Shawn Nelson,Male,24,627,7547,USA,2022-08-13 01:36:00,505,2,4000,63.92,74.05,73.62,3.61,Medium Value customer
+2077,Jason Johnson,Male,42,748,5839,UK,2021-09-10 06:47:00,842,1,75,47.96,29.18,29.01,1.6,Low Value customer
+2078,Tyler Lopez,Female,61,728,3853,Italy,2021-09-12 00:50:00,840,1,360,48.05,29.18,29.01,1.6,Low Value customer
+2079,James Velasquez,Male,23,674,6460,USA,2022-02-05 10:39:00,693,3,9120,54.76,94.57,94.02,4.41,High Value Customer
+2080,Amanda Snyder,Male,37,662,4051,Canada,2021-09-12 14:42:00,839,1,2400,48.19,29.18,29.01,1.6,Low Value customer
+2081,Phillip Wagner,Male,63,681,4958,UK,2023-05-08 13:38:00,236,1,75,80.96,29.18,29.01,1.84,Low Value customer
+2082,Samantha Mccann,Female,43,635,3812,China,2021-09-13 06:39:00,839,1,1200,48.19,29.18,29.01,1.6,Low Value customer
+2083,Laurie Oliver,Male,72,712,3131,India,2022-05-02 03:32:00,608,2,4100,57.75,74.05,73.62,3.57,Medium Value customer
+2084,Tanner Daniels,Male,56,691,7343,China,2023-09-13 19:13:00,108,2,320,91.66,74.05,73.62,3.82,Medium Value customer
+2085,Robert Miller,Female,31,765,3343,Spain,2022-06-14 23:26:00,564,2,2210,59.97,74.05,73.62,3.58,Medium Value customer
+2086,Tonya Hall,Male,33,708,7771,Canada,2021-09-17 22:24:00,834,1,175,48.37,29.18,29.01,1.6,Low Value customer
+2087,Amber Howard,Male,33,615,3968,Spain,2021-09-18 02:30:00,834,1,240,48.37,29.18,29.01,1.6,Low Value customer
+2088,Rebecca Reed,Male,36,613,4462,Italy,2022-07-06 19:47:00,542,2,335,61.79,74.05,73.62,3.6,Medium Value customer
+2089,Alyssa Henderson,Male,21,669,7497,Canada,2021-09-19 09:30:00,832,1,1500,48.59,29.18,29.01,1.6,Low Value customer
+2090,Jordan Stewart,Male,33,645,4685,USA,2021-09-19 17:34:00,832,1,35,48.59,29.18,29.01,1.6,Low Value customer
+2091,Gary Garza,Female,67,698,6535,India,2021-09-20 04:55:00,832,1,54,48.59,29.18,29.01,1.6,Low Value customer
+2092,Kimberly Church,Female,52,732,4541,UK,2022-01-26 09:45:00,703,1,140,54.13,29.18,29.01,1.64,Low Value customer
+2093,Laura Fitzgerald,Male,28,654,7618,Australia,2021-09-21 05:44:00,831,1,2000,48.78,29.18,29.01,1.6,Low Value customer
+2095,Dwayne Young,Female,55,718,5527,Italy,2022-10-25 05:34:00,432,3,2129,68.54,94.57,94.02,4.52,Top Customer
+2096,Desiree Jenkins,Female,51,704,4071,Canada,2022-09-29 19:18:00,457,2,330,66.86,74.05,73.62,3.64,Medium Value customer
+2097,Mary Thompson,Female,41,667,6553,China,2023-10-17 11:48:00,74,1,24,94.47,29.18,29.01,1.94,Low Value customer
+2098,Brandon Woods,Male,49,695,4634,Spain,2023-08-15 04:08:00,138,3,915,89.12,94.57,94.02,4.67,Top Customer
+2099,Anthony Moore,Female,34,662,4633,USA,2021-09-29 11:45:00,822,1,150,48.87,29.18,29.01,1.6,Low Value customer
+2100,Teresa Reyes,Female,61,659,3047,Spain,2021-09-30 11:02:00,821,1,50,49.0,29.18,29.01,1.6,Low Value customer
+2101,Brianna Castro,Female,62,674,7288,Italy,2021-10-01 01:16:00,821,1,45,49.0,29.18,29.01,1.6,Low Value customer
+2102,Laurie Smith,Female,35,655,3515,India,2023-03-19 05:16:00,287,2,75,77.65,74.05,73.62,3.72,Medium Value customer
+2103,Kimberly Mason,Female,54,663,6000,India,2023-07-29 22:18:00,154,2,325,87.76,74.05,73.62,3.79,Medium Value customer
+2104,Elizabeth Hutchinson,Female,72,711,5097,India,2021-10-04 22:42:00,817,1,60,49.14,29.18,29.01,1.6,Low Value customer
+2105,Brian Walker,Male,57,768,3971,Spain,2021-10-08 02:37:00,814,1,30,49.23,29.18,29.01,1.6,Low Value customer
+2106,Julie Zuniga,Male,45,636,6164,Canada,2023-01-02 09:48:00,362,2,208,73.3,74.05,73.62,3.68,Medium Value customer
+2107,Jessica Tate,Female,41,725,6211,Australia,2022-08-07 03:48:00,511,2,400,63.42,74.05,73.62,3.61,Medium Value customer
+2108,Jeremy Parker,Female,67,685,7921,Italy,2022-10-31 17:32:00,425,2,9200,69.08,74.05,73.62,3.65,Medium Value customer
+2109,Kristen Kent,Male,56,634,7203,Australia,2023-09-15 20:30:00,106,2,260,92.07,74.05,73.62,3.83,Medium Value customer
+2110,Latasha Bullock,Female,32,620,3167,Australia,2021-10-11 21:51:00,810,1,210,49.32,29.18,29.01,1.61,Low Value customer
+2111,Sherry Garza,Male,34,686,6178,Canada,2023-09-25 06:22:00,97,3,210,92.57,94.57,94.02,4.7,Top Customer
+2112,Kimberly Evans,Female,25,639,3858,India,2022-11-16 00:39:00,410,2,2475,69.81,74.05,73.62,3.66,Medium Value customer
+2113,Dawn Harris,Male,33,696,5759,China,2023-08-10 07:13:00,143,2,400,88.76,74.05,73.62,3.8,Medium Value customer
+2114,Rebecca George,Male,68,683,6807,India,2023-10-02 05:57:00,90,3,165,93.02,94.57,94.02,4.7,Top Customer
+2115,Christopher Smith,Female,69,672,5265,India,2021-10-17 12:56:00,804,1,80,49.46,29.18,29.01,1.61,Low Value customer
+2116,Patricia Kaiser,Male,33,697,7665,India,2023-03-02 00:52:00,304,2,400,76.52,74.05,73.62,3.71,Medium Value customer
+2117,Shaun Martinez,Female,29,749,6105,China,2021-10-18 06:28:00,804,1,7200,49.46,29.18,29.01,1.61,Low Value customer
+2118,Kathy Leblanc,Male,43,714,4750,Australia,2021-10-18 20:00:00,803,1,160,49.64,29.18,29.01,1.61,Low Value customer
+2119,James Lee,Male,21,780,6064,Japan,2023-12-21 20:17:00,9,1,100,99.37,29.18,29.01,1.98,Low Value customer
+2120,Laura Lopez,Male,26,720,7200,Australia,2021-10-19 05:07:00,803,1,3000,49.64,29.18,29.01,1.61,Low Value customer
+2121,Keith Sutton,Female,64,631,7702,China,2021-10-22 09:23:00,799,1,200,49.77,29.18,29.01,1.61,Low Value customer
+2122,Theresa Kemp,Female,66,670,7030,Australia,2022-06-01 08:40:00,577,2,255,59.47,74.05,73.62,3.58,Medium Value customer
+2123,Jessica Sullivan,Female,42,767,5703,Japan,2021-10-25 21:05:00,796,1,90,49.86,29.18,29.01,1.61,Low Value customer
+2124,Michael Summers,Male,18,740,6682,Spain,2022-08-26 16:59:00,491,4,2610,64.82,100.0,99.41,4.72,Top Customer
+2125,Mr. Daniel Martinez,Male,33,746,4010,China,2023-05-12 07:25:00,233,4,460,81.32,100.0,99.41,4.84,Top Customer
+2126,David Foley,Female,18,706,7740,UK,2023-07-20 01:16:00,164,3,560,87.04,94.57,94.02,4.66,Top Customer
+2127,Nicole Reilly,Female,67,661,6116,Japan,2021-10-26 09:15:00,795,1,50,49.95,29.18,29.01,1.61,Low Value customer
+2128,Anthony Lopez,Female,64,779,7355,Italy,2023-08-18 02:12:00,135,2,270,89.35,74.05,73.62,3.8,Medium Value customer
+2129,Cassidy Shaffer,Female,55,755,3990,India,2022-11-09 15:47:00,416,1,4800,69.58,29.18,29.01,1.76,Low Value customer
+2130,Amber Cooper,Female,23,709,7406,Canada,2021-10-28 16:28:00,793,1,150,50.05,29.18,29.01,1.61,Low Value customer
+2131,Brooke Ford,Female,67,662,6868,India,2022-12-04 18:53:00,391,2,64,70.72,74.05,73.62,3.67,Medium Value customer
+2132,Brandon Clark,Male,55,621,7531,Japan,2022-12-09 10:35:00,386,3,970,70.99,94.57,94.02,4.54,Top Customer
+2133,Teresa Nelson,Male,69,708,6015,UK,2021-10-30 17:02:00,791,1,1200,50.14,29.18,29.01,1.61,Low Value customer
+2135,Thomas Sharp,Male,63,724,7588,Canada,2021-11-03 09:45:00,787,1,125,50.32,29.18,29.01,1.61,Low Value customer
+2136,Rachael Cameron,Female,48,606,4762,Japan,2022-01-21 11:20:00,708,2,285,53.81,74.05,73.62,3.54,Medium Value customer
+2137,Donna Holmes,Female,33,688,5097,Australia,2021-11-03 18:25:00,787,1,800,50.32,29.18,29.01,1.61,Low Value customer
+2138,Aimee Richardson,Male,60,709,7048,Spain,2021-11-04 07:13:00,787,1,175,50.32,29.18,29.01,1.61,Low Value customer
+2139,David Horn,Female,61,722,7881,Spain,2021-11-05 09:17:00,785,1,7500,50.5,29.18,29.01,1.61,Low Value customer
+2140,John Pace,Male,25,687,5444,China,2022-01-20 15:32:00,709,2,4400,53.67,74.05,73.62,3.54,Medium Value customer
+2141,Donald Thomas,Female,22,675,4831,India,2021-11-11 13:46:00,779,1,150,50.59,29.18,29.01,1.61,Low Value customer
+2143,Brittney Peterson,Male,55,664,7700,Australia,2021-11-13 14:38:00,777,1,6000,50.68,29.18,29.01,1.62,Low Value customer
+2144,Mr. Scott Parker,Female,30,640,5267,Australia,2022-07-11 04:31:00,538,2,9090,62.24,74.05,73.62,3.6,Medium Value customer
+2145,Cathy Krueger,Male,65,620,6948,Italy,2022-03-04 20:57:00,666,2,1240,55.35,74.05,73.62,3.55,Medium Value customer
+2146,Michael Stone,Female,22,728,5341,Spain,2021-11-14 22:04:00,776,1,16,50.77,29.18,29.01,1.62,Low Value customer
+2147,Jason Gallagher,Female,41,706,7386,USA,2022-09-29 21:01:00,457,2,51,66.86,74.05,73.62,3.64,Medium Value customer
+2148,Denise Williams,Female,19,711,7806,USA,2022-05-06 16:22:00,603,2,3608,58.25,74.05,73.62,3.57,Medium Value customer
+2149,Frederick Skinner,Male,65,733,4145,India,2023-04-26 01:38:00,249,1,72,79.74,29.18,29.01,1.83,Low Value customer
+2150,Patrick Blake,Female,25,746,6983,China,2023-09-02 00:37:00,120,3,410,90.93,94.57,94.02,4.69,Top Customer
+2151,Brandy Brown,Female,59,629,7703,Australia,2021-11-18 04:02:00,773,1,75,50.86,29.18,29.01,1.62,Low Value customer
+2152,Joseph Coleman,Male,24,741,3974,Canada,2022-11-28 03:58:00,398,2,6080,70.22,74.05,73.62,3.66,Medium Value customer
+2153,Jose Larson,Male,39,627,7998,Japan,2023-10-17 17:49:00,74,2,6180,94.47,74.05,73.62,3.84,Medium Value customer
+2154,Stephanie Cook,Female,19,609,5977,China,2021-11-22 05:09:00,769,1,800,50.95,29.18,29.01,1.62,Low Value customer
+2155,Destiny Hall,Female,27,758,7611,China,2021-11-24 02:55:00,767,1,140,51.04,29.18,29.01,1.62,Low Value customer
+2156,Devon Ramirez,Male,67,739,3363,India,2023-05-19 09:38:00,225,3,530,82.0,94.57,94.02,4.62,Top Customer
+2157,Anna House,Female,23,672,3349,Italy,2021-11-25 08:04:00,766,1,3000,51.13,29.18,29.01,1.62,Low Value customer
+2159,Thomas Gordon,Female,54,633,6125,India,2022-11-04 11:46:00,421,3,860,69.22,94.57,94.02,4.52,Top Customer
+2160,Joseph Franklin,Male,49,765,6802,Australia,2022-06-07 23:22:00,571,2,300,59.84,74.05,73.62,3.58,Medium Value customer
+2161,Debbie Mitchell,Female,69,661,3374,USA,2021-11-28 00:58:00,763,1,400,51.22,29.18,29.01,1.62,Low Value customer
+2162,Christopher Brown,Male,71,614,4179,China,2023-09-26 23:43:00,95,2,6360,92.66,74.05,73.62,3.83,Medium Value customer
+2163,Wendy Hawkins,Female,26,660,4759,Australia,2022-02-03 02:55:00,696,2,12000,54.67,74.05,73.62,3.54,Medium Value customer
+2164,George Ingram,Male,25,703,7728,Japan,2021-11-30 17:59:00,760,1,320,51.36,29.18,29.01,1.62,Low Value customer
+2165,Elizabeth Davis,Female,40,667,4223,Italy,2021-12-01 03:06:00,760,1,90,51.36,29.18,29.01,1.62,Low Value customer
+2166,Marco Ferguson,Male,40,722,6225,Canada,2022-05-05 07:59:00,605,2,5040,58.02,74.05,73.62,3.57,Medium Value customer
+2167,Brian Stewart,Female,48,718,4477,Australia,2023-12-12 22:47:00,18,2,350,98.73,74.05,73.62,3.88,Medium Value customer
+2168,Jennifer Graham,Male,69,608,6943,USA,2021-12-02 01:53:00,759,1,15,51.5,29.18,29.01,1.62,Low Value customer
+2169,William Bright,Female,72,778,3800,Italy,2022-11-04 12:49:00,421,2,7208,69.22,74.05,73.62,3.65,Medium Value customer
+2170,Jesse Armstrong,Female,69,661,7167,Australia,2021-12-04 01:57:00,757,1,350,51.63,29.18,29.01,1.62,Low Value customer
+2171,Jenna Martinez,Male,30,742,6851,Australia,2021-12-04 02:02:00,757,1,100,51.63,29.18,29.01,1.62,Low Value customer
+2172,Mark Martin,Female,56,640,6006,USA,2021-12-04 13:01:00,756,1,105,51.77,29.18,29.01,1.62,Low Value customer
+2173,Curtis Morgan,Female,37,708,7386,Italy,2022-10-04 15:30:00,452,2,2800,67.36,74.05,73.62,3.64,Medium Value customer
+2174,Roger Brown,Female,54,704,6333,Canada,2021-12-07 17:29:00,753,1,70,51.86,29.18,29.01,1.62,Low Value customer
+2175,John Acevedo,Female,37,675,4756,Australia,2021-12-09 07:47:00,752,1,60,51.95,29.18,29.01,1.63,Low Value customer
+2176,Joyce Sheppard,Male,37,678,6584,Spain,2023-03-29 22:58:00,276,2,3050,78.33,74.05,73.62,3.72,Medium Value customer
+2177,Lori Roberts,Male,43,620,7414,Australia,2023-12-08 02:57:00,23,2,1550,97.96,74.05,73.62,3.87,Medium Value customer
+2178,Samuel Chambers,Male,66,724,4063,USA,2022-03-12 14:24:00,658,3,2620,55.67,94.57,94.02,4.42,High Value Customer
+2179,Gregory Day,Male,22,673,5712,Japan,2023-08-10 03:56:00,143,3,6500,88.76,94.57,94.02,4.67,Top Customer
+2180,Brianna Smith,Female,38,644,7810,USA,2023-05-13 13:48:00,231,3,220,81.46,94.57,94.02,4.61,Top Customer
+2181,Dalton Burton,Female,23,698,5871,Australia,2023-05-04 18:24:00,240,2,325,80.46,74.05,73.62,3.74,Medium Value customer
+2182,Dennis Rivera,Female,19,608,6131,Australia,2023-03-14 14:14:00,291,3,264,77.2,94.57,94.02,4.58,Top Customer
+2183,Matthew Fernandez,Male,34,740,5288,Australia,2022-01-12 02:03:00,718,2,6100,53.49,74.05,73.62,3.54,Medium Value customer
+2184,Melissa Brown,Male,41,767,7045,India,2021-12-15 21:25:00,745,1,300,52.04,29.18,29.01,1.63,Low Value customer
+2185,Lauren Jackson,Female,65,736,4757,UK,2021-12-16 20:32:00,744,1,35,52.13,29.18,29.01,1.63,Low Value customer
+2186,Tamara Welch,Female,68,777,3521,India,2021-12-17 15:09:00,743,1,80,52.22,29.18,29.01,1.63,Low Value customer
+2187,Michele Hobbs,Female,49,767,5297,China,2022-09-07 01:37:00,480,2,3800,65.28,74.05,73.62,3.62,Medium Value customer
+2188,Crystal Gonzalez,Female,54,763,5310,UK,2021-12-19 15:18:00,741,1,16,52.31,29.18,29.01,1.63,Low Value customer
+2189,Rebekah Beck,Male,63,618,6885,Canada,2023-11-26 01:00:00,35,2,160,96.92,74.05,73.62,3.86,Medium Value customer
+2190,Elizabeth Johnston,Male,50,681,5325,India,2021-12-21 02:58:00,740,1,2000,52.4,29.18,29.01,1.63,Low Value customer
+2191,Samantha Collins,Female,19,753,3264,China,2021-12-22 03:07:00,739,1,150,52.49,29.18,29.01,1.63,Low Value customer
+2192,Barbara Kelly,Male,29,739,4481,China,2023-06-24 02:00:00,190,3,332,84.86,94.57,94.02,4.64,Top Customer
+2193,Emily Pena,Male,28,702,7824,India,2022-02-12 11:55:00,686,2,9500,54.99,74.05,73.62,3.55,Medium Value customer
+2194,Whitney Williams,Female,58,700,4124,India,2021-12-24 17:49:00,736,1,3000,52.63,29.18,29.01,1.63,Low Value customer
+2195,Brittany Bell DDS,Male,41,664,5380,Spain,2021-12-25 00:19:00,736,1,2500,52.63,29.18,29.01,1.63,Low Value customer
+2196,Regina Kidd,Female,21,655,5220,China,2022-09-14 15:34:00,472,2,1675,65.64,74.05,73.62,3.63,Medium Value customer
+2197,Mr. Matthew Perez MD,Female,35,613,4948,Canada,2023-12-22 17:00:00,8,3,300,99.64,94.57,94.02,4.75,Top Customer
+2198,Sarah Howard,Male,36,637,5856,China,2023-08-25 08:49:00,127,2,250,90.21,74.05,73.62,3.81,Medium Value customer
+2199,Steven Larsen,Female,31,619,3495,China,2021-12-30 06:00:00,731,1,50,52.77,29.18,29.01,1.63,Low Value customer
+2200,Tammy Stanley,Male,62,677,7817,Australia,2021-12-30 12:33:00,730,1,100,52.95,29.18,29.01,1.63,Low Value customer
