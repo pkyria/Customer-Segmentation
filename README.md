@@ -87,7 +87,7 @@ Jupyter notebooks for data preprocessing, exploration, and modeling.
 
 ---
 
-### 3. Power BI Dashboard
+### 4. Power BI Dashboard
 
 <img width="1145" height="640" alt="image" src="https://github.com/user-attachments/assets/24390df8-f8c9-424d-9df9-f708f98e27b1" />
 
