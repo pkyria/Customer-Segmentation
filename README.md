@@ -86,3 +86,31 @@ Jupyter notebooks for data preprocessing, exploration, and modeling.
 > Located in: `python_notebooks/`
 
 ---
+
+### 3. Power BI Dashboard
+
+<img width="1145" height="640" alt="image" src="https://github.com/user-attachments/assets/24390df8-f8c9-424d-9df9-f708f98e27b1" />
+
+<img width="1151" height="654" alt="image" src="https://github.com/user-attachments/assets/27050068-53b1-4fb7-99c0-79b0cb94ff55" />
+
+<img width="1143" height="644" alt="image" src="https://github.com/user-attachments/assets/983d50f1-c558-461e-9f65-d850c9dfed9c" />
+
+<img width="1142" height="689" alt="image" src="https://github.com/user-attachments/assets/2c357225-5837-4a1f-b29e-f5a33a4f5f23" />
+
+<img width="1117" height="625" alt="image" src="https://github.com/user-attachments/assets/1bc5704d-ea0c-4425-910c-8103ad9de9b3" />
+
+<img width="1152" height="707" alt="image" src="https://github.com/user-attachments/assets/1e803993-0d9c-43b7-84f1-7648e6a5234f" />
+
+<img width="1114" height="656" alt="image" src="https://github.com/user-attachments/assets/81bbe21d-55c6-4ea9-999c-7e5f85ce80b9" />
+
+<img width="478" height="597" alt="image" src="https://github.com/user-attachments/assets/9caddd3c-4f1a-4a12-bb28-e50ef485dc8a" />
+
+<img width="742" height="585" alt="image" src="https://github.com/user-attachments/assets/cb860dd6-a171-4da9-9e37-36e667b1c0a2" />
+
+
+
+
+
+
+
+
