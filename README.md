@@ -4,7 +4,7 @@ This project focuses on customer segmentation and predictive analytics using a c
 
 ---
 
-> 📄 **For a detailed description, see [Report](./report.pdf).**
+> ### 📌 **IMPORTANT —** For full details on the analysis, open the **[Report](./report.pdf)**
 
 ---
 
